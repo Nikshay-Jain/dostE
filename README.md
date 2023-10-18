@@ -25,9 +25,8 @@ Who are the target personas for this product, and which is the key persona?
 
 # ****💁‍♀️Proposed Solution****
 
-Flow diag:
-
-https://www.canva.com/design/DAFvKrE-OO0/CY7b338Nu-G7S_gtPJefmQ/edit?utm_content=DAFvKrE-OO0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![image](https://github.com/Nikshay-Jain/dostE/assets/95025986/f3b728e2-96a4-4a51-965b-fddc33a40614)
+![image](https://github.com/Nikshay-Jain/dostE/assets/95025986/14db1deb-bae4-4ccd-bb65-4286432fe8f3)
 
 ## **Features In**
 
