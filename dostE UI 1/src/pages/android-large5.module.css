@@ -1,0 +1,347 @@
+.div,
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 51px;
+  height: 20px;
+}
+.div1 {
+  top: 36px;
+  left: 294px;
+  width: 15px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 2.5%;
+  width: 5.56%;
+  top: 0.38%;
+  right: 68.89%;
+  bottom: 97.13%;
+  left: 25.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.batteryIcon,
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  top: 0;
+  left: 327px;
+  width: 30px;
+  height: 32px;
+  overflow: hidden;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  height: 2%;
+  width: 3.89%;
+  top: 0.38%;
+  right: 10.83%;
+  bottom: 97.63%;
+  left: 85.28%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon2 {
+  height: 3.25%;
+  width: 7.5%;
+  top: 4.38%;
+  right: 90.56%;
+  bottom: 92.38%;
+  left: 1.94%;
+  cursor: pointer;
+}
+.layer2Icon,
+.vectorIcon3,
+.vectorIcon4,
+.vectorIcon5 {
+  position: absolute;
+  height: 3%;
+  width: 6.11%;
+  top: 4.5%;
+  right: 24.44%;
+  bottom: 92.5%;
+  left: 69.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.layer2Icon,
+.vectorIcon4,
+.vectorIcon5 {
+  width: 6.94%;
+  right: 13.61%;
+  left: 79.44%;
+}
+.vectorIcon4,
+.vectorIcon5 {
+  height: 2.3%;
+  width: 1.22%;
+  top: 4.75%;
+  right: 5.44%;
+  bottom: 92.95%;
+  left: 93.33%;
+}
+.vectorIcon5 {
+  height: 2.5%;
+  width: 5.56%;
+  top: 0.38%;
+  right: 78.61%;
+  bottom: 97.13%;
+  left: 15.83%;
+}
+.androidLarge5Child {
+  position: absolute;
+  top: 34px;
+  left: 39px;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-darkgray);
+  box-shadow: 4px 8px 14px rgba(0, 0, 0, 0.25);
+  width: 207px;
+  height: 31px;
+}
+.dosteiitmacinfaq {
+  position: absolute;
+  top: 43px;
+  left: 73px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 173px;
+  height: 30px;
+}
+.vectorIcon6 {
+  position: absolute;
+  height: 2.5%;
+  width: 4.44%;
+  top: 4.88%;
+  right: 81.67%;
+  bottom: 92.63%;
+  left: 13.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.androidLarge5Item {
+  position: absolute;
+  top: 85px;
+  left: 0;
+  border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+  background-color: var(--color-blanchedalmond-100);
+  width: 357px;
+  height: 715px;
+}
+.faqs {
+  position: absolute;
+  top: 106px;
+  left: 152px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 63px;
+  height: 30px;
+}
+.androidLarge5Inner {
+  position: absolute;
+  top: 93.5px;
+  left: 153.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 53px;
+  height: 3px;
+  cursor: pointer;
+}
+.howCanThe {
+  position: absolute;
+  top: 166px;
+  left: 7px;
+  display: inline-block;
+  width: 350px;
+  height: 37px;
+}
+.canIUse,
+.howCanI,
+.howDoI,
+.isMyData,
+.isTheChatbot,
+.isTheChatbot1,
+.whatHappensIf {
+  position: absolute;
+  top: 231px;
+  left: 7px;
+  display: inline-block;
+  width: 350px;
+  height: 37px;
+}
+.canIUse,
+.howCanI,
+.howDoI,
+.isMyData,
+.isTheChatbot1,
+.whatHappensIf {
+  top: 291px;
+}
+.canIUse,
+.howCanI,
+.isMyData,
+.isTheChatbot1,
+.whatHappensIf {
+  top: 351px;
+}
+.canIUse,
+.howCanI,
+.isTheChatbot1,
+.whatHappensIf {
+  top: 416px;
+}
+.canIUse,
+.howCanI,
+.isTheChatbot1 {
+  top: 497px;
+}
+.canIUse,
+.isTheChatbot1 {
+  top: 567px;
+  left: 5px;
+  width: 335px;
+}
+.isTheChatbot1 {
+  top: 646px;
+}
+.whatDoI {
+  margin: 0;
+}
+.whatDoIContainer {
+  position: absolute;
+  top: 715px;
+  left: 6px;
+  display: inline-block;
+  width: 335px;
+  height: 37px;
+}
+.androidLarge5Child1,
+.lineDiv {
+  position: absolute;
+  height: 0.13%;
+  left: 1.81%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 1px dashed var(--color-black);
+  box-sizing: border-box;
+}
+.lineDiv {
+  width: 96.11%;
+  top: 26.06%;
+  right: 2.08%;
+  bottom: 73.81%;
+  background-color: var(--color-gainsboro);
+}
+.androidLarge5Child1 {
+  width: 96.67%;
+  top: 33.44%;
+  right: 1.53%;
+  bottom: 66.44%;
+}
+.androidLarge5Child2,
+.androidLarge5Child3,
+.androidLarge5Child4,
+.androidLarge5Child5,
+.androidLarge5Child6,
+.androidLarge5Child7,
+.androidLarge5Child8 {
+  position: absolute;
+  height: 0.13%;
+  width: 96.67%;
+  top: 40.94%;
+  right: 2.36%;
+  bottom: 58.94%;
+  left: 0.97%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 1px dashed var(--color-black);
+  box-sizing: border-box;
+}
+.androidLarge5Child3,
+.androidLarge5Child4,
+.androidLarge5Child5,
+.androidLarge5Child6,
+.androidLarge5Child7,
+.androidLarge5Child8 {
+  top: 49.06%;
+  bottom: 50.81%;
+}
+.androidLarge5Child4,
+.androidLarge5Child5,
+.androidLarge5Child6,
+.androidLarge5Child7,
+.androidLarge5Child8 {
+  top: 59.31%;
+  right: 2.08%;
+  bottom: 40.56%;
+  left: 1.25%;
+}
+.androidLarge5Child5,
+.androidLarge5Child6,
+.androidLarge5Child7,
+.androidLarge5Child8 {
+  top: 69.44%;
+  right: 1.81%;
+  bottom: 30.44%;
+  left: 1.53%;
+}
+.androidLarge5Child6,
+.androidLarge5Child7,
+.androidLarge5Child8 {
+  top: 78.06%;
+  right: 2.36%;
+  bottom: 21.81%;
+  left: 0.97%;
+}
+.androidLarge5Child7,
+.androidLarge5Child8 {
+  top: 86.69%;
+  bottom: 13.19%;
+}
+.androidLarge5Child8 {
+  top: 96.56%;
+  right: 2.08%;
+  bottom: 3.31%;
+  left: 1.25%;
+}
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  position: absolute;
+  height: 1.25%;
+  width: 4.44%;
+  top: 71.38%;
+  right: 2.5%;
+  bottom: 27.38%;
+  left: 93.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon8,
+.vectorIcon9 {
+  top: 80.88%;
+  bottom: 17.88%;
+}
+.vectorIcon9 {
+  top: 89.88%;
+  bottom: 8.88%;
+}
+.androidLarge5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-cornflowerblue);
+  font-family: var(--font-inter);
+}
