@@ -1,0 +1,567 @@
+Intro = """
+Core Values
+To be an academic institution in dynamic equilibrium with its social, ecological, and economic environment striving continuously for excellence in the fields of education, research, and technological service to the nation.
+
+In pursuit of its mission, IITM will:
+1. Develop human resources to serve the nation.
+2. Recognize teaching as a unifying activity.
+3. Nurture integrity, creativity, and academic freedom.
+4. Retain a willingness to experiment with new paradigms
+
+Vision:
+To be an academic institution in dynamic equilibrium with its social, ecological, and economic environment striving continuously for excellence in the fields of education, research, and technological service to the nation.
+
+Mission:
+1. To create and sustain a community of learning in which students acquire knowledge and learn to apply it professionally with due consideration for ethical, ecological, and economic issues.
+2. To pursue research and disseminate research findings.
+3. To provide knowledge-based technological services to satisfy the needs of society and the industry.
+4. To help in building national capabilities in science, technology, humanities, management, education, and research.
+"""
+
+Saathi = """
+Saathi is an initiative of IIT Madras to guide you through your days here. As the name suggests, it is a body of senior student pals and friendly faculty who will always be willing to help you in any matter. Its objectives include achieving overall well-being of the entire student community by equipping and enhancing the all-round skills needed to succeed on campus and in life.
+
+For example, a program aimed solely at improving English language skills, named 'English Minglish,' was launched previously whereby students comfortable only in their vernacular language could converse in English. The other important objective of Saathi is to break the stigma around various issues regarding mental health.
+
+You will be introduced to a Student Mentorship Cell (SMC) mentor, a responsible senior student, who will meet you soon after your arrival at IIT Madras. Besides being your first friend on campus, your mentor can clarify your doubts related to various aspects of institute life.
+
+We wish that you have the most wonderful and fruitful years of your life in the institute and hope that you scale great heights in your career.
+"""
+
+SMC = """
+One of the first connections that you, as a freshie, will make with IIT Madras is through the mentors you meet in the Student Mentorship Cell. These mentors are senior students designated to ensure a smooth transition into institute life. They are available and enthusiastic to answer any questions that freshers might have regarding academics, co-curriculars, opportunities on and around campus, or even life at IITM. SMC has been integrated with Saathi in recent years, and together, they conduct Freshers' initiation and immersion programs. 
+
+A good rule of thumb whenever you find yourself in a puddle of confusion is to reach out to your mentors. After all, they've been in the same place as you and will be more than happy to help."""
+
+
+MITR = """
+MiTr is a reactive body of students and faculties under the DOST office, who believe that no one should be unattended when in emotional distress. It bridges the gap between the student community and the wellness centre and works for the holistic well-being of the students. The objective of MiTr is to be there for students facing academic, extracurricular, personal, or any problems that might have a negative effect on the student’s overall well-being. One can always seek help and guidance from any student MiTr, irrespective of the department and hostel, if you are going through any difficulty. Moving away from the comforts of your home and village into a metropolitan city, interacting with many people, and making new friends, provide you with many new experiences. The journey thus entailed will bring in challenges of its own. While sailing through these ups and downs of Insti life, MiTr is always at your aid, no matter what. We, MiTr, are a team of 40 empathetic, confidential and trained students available throughout the year."""
+
+Smail = """
+S-Mail, or Student Email, is the primary mode of official communication between the institute administration, faculty and students. In your SMail account, you will receive details of every kind of relevant event, news or update related to the institute and pertinent to you. These can include announcements about new courses, warnings about caring for the wildlife, reminders for concert dates or lecture schedules, details of competitions, offers or discounts as an IITM student, official circulars and announcements, course registrations, workshops, and much, much more. Smail ID will also help you avail academic discounts and access to databases of research papers. As a student of the institute, one of the first things you will be provided with is an Smail ID. The format usually goes <rollnumber>@smail.iitm.ac.in. Your institute roll number, consisting of 8 characters, will uniquely identify you through your department, year of enrolment, program and class roll number. Many students regard SMail as spam because of the sheer volume of emails, but it is well worth your time to read your mail regularly, especially in your first year, to avoid missing out on anything."""
+
+DMC = """
+Founded in 2012, the Disaster Management Committee (DMC) in IIT Madras is a student-run body under Student General Secretary presided over by the Dean of Students (DoSt) working to make sure that our campus is completely disaster-resistant, as well as equip students to deal with emergencies. We conduct various events throughout the year; some of our signature activities include Hostel fire drills, emergency medical care workshops, [events], and Disaster relief collection drives. Over ten years, DMC has been able to empower thousands of students and campus residents through these initiatives. This is made possible only by its dynamic and diverse team, which comprises Core members, Super-coordinators for different verticals, and its Coordinators. DMC continuously looks forward to improving its reach and expanding its functions within and outside the institute by engaging enthusiastic and compelling people to contribute towards creating a safer environment in Insti."""
+
+IViL = """
+IViL- IIT for Villages is a discussion and action platform for students of IITM for the benefit of rural India. Here, you can brainstorm and ideate projects and then implement them and see them take action. Some of the major ongoing projects are: She-ViL STEM, TEL school project, Menstrual Health and Hygiene project, Cycle donation project, Gadget donation project, etc. We do conduct village visits to identify the real-time issues faced by Rural India and thereby frame solutions through our projects. Any student from IITM can volunteer for IViL. There is no selection process to join IViL. Students can simply attend meetings and share ideas & insights to contribute."""
+
+EML = """
+As a child, we admire; as adolescents, we aspire; as adults we perspire; and as responsible, successful citizens, we inspire. It is this inspiration that one gets in these lectures. One cannot achieve big without listening to people who have done it before. It is as they say; we shall not live long enough to learn from our own mistakes. We shall have to learn from others’ too. The Extra Mural Lectures in IITM cover diverse topics and bring in people from across the globe; those people who have been pioneers and who have received the highest honours in their fields. Where else do you get to interact with people so knowledgeable, so experienced and so successful? The faces that you see on a television screen are brought before you to talk. These lectures unfold tales of unfathomable perseverance and unmatched genius. It is said that we cannot discover new continents with the fear of losing sight of the shore. We provide you the tale of those conquests."""
+
+
+IARSC = """
+The I&AR Student Council promotes international ties for the benefit of institute students and is essential in bridging the gap between the institute and its alumni. I&AR Student Council works to make insti a lot more enjoyable place for visiting students and alumni, organizing anything from engaging sessions with alumni to enabling student exchange programs.
+
+The Global Engagement Cell, formerly known as the International Relations Cell, serves as the primary point of contact between the student body and the exchange students. This team helps all new students to address all of their questions. They are tasked with minimizing the difficulties encountered by visiting students.
+
+Organizes and coordinates events such as hackathons, summits, etc., to promote and build the international brand of IIT Madras. The Events team organized the Youth Summit 2022 on the theme "Cities for the Future," which saw enthusiastic participation.
+
+Opportunities and Outreach Team - Scouts for and brings in various prospects, such as semester exchanges, internships, and research projects from abroad for the students. It works to create awareness of various opportunities for international students to visit or study at IIT Madras. The opportunities and outreach team conducted information sessions for research internships and semester exchanges. Students who had availed of these opportunities share their experiences and wisdom with aspiring students.
+
+World Culture Team - It's a support system and interaction with the international students on campus the most. It ensures a smooth and convenient "insti-life" experience for them. Further, it is responsible for the cultural exchange between international students and the students of IIT Madras. The team also organizes International Day. It sees energetic participation from all the international students in performing various cultural activities."""
+
+ACR = """
+Institute Branding Cell - The team's goal, as its name implies, is to improve the institute's reputation in the international community. This is done through making the achievements and daily lives of the IITM community public. Additionally, the group shares facts about life in general.
+
+Chennai36 - The alumni-student blog of insti is called Chennai36 and is named after the IIT Madras Pincode. With the tagline "Connect, Converse, Convey," Chennai36 aims to develop a productive platform for the exchange of stories, anecdotes, and memories between IITM staff, students, and alumni across generations. Through its blog posts and Facebook page, Chennai36 speaks with alumni from many areas of life and shares their messages with the student community.
+
+Corporate Relations Cell - This group works to elevate the "IITM branding" by securing exclusive deals for IITM members (students, faculty, and alumni). They currently work with organizations like the New York Times, Amazon, Croma, etc.
+
+Alumni Relation Cell
+This group is in charge of managing all student-alumni relations-related activities. They hold annual activities including reunions and Willkommen in collaboration with the Office of Alumni Affairs and the IIT Madras Alumni Association. They are also in charge of carrying out the renowned Leadership Lecture Series."""
+
+IITMTV = """
+The official student Media body of IIT Madras, we, in IITM TV, cover a wide spectrum ranging from vox-rox to music videos, satires, and short films. In short, we document, curate and preserve memories. Writing, Direction, Cinematography, Editing, Sound Design - everything everywhere all at once - is IITM TV. The flexible work culture here allows every team member to explore, learn and execute, not just in their own vertical, but in other areas of interest as well.
+
+Being in the top 30 for Asia's biggest film fest; IFP 50-hour filmmaking challenge and having crossed 1 million views for a video in about a month, we work to produce better content with a bunch of self-driven creators - with creativity in our minds and passion in our hearts."""
+
+
+Saarang = """
+IIT Madras has seen a 60-year journey marked by many milestones, one of which was the advent of Mardi Gras, a pioneer student cultural extravaganza. Mardi Gras had the distinction of hosting Uriah Heep (in one of their rare world tours), Buddha’s Babies and even A R Rahman as a college student. Almost 45 years later, the legacy lives on, but now known as Saarang.
+
+One of the largest cultural festivals in India, Saarang attracts over 50,000 people from around the country. Held in January every year, Saarang is commonly acknowledged as the mother of all cultural festivals, a reputation that the Institute is honour-bound to uphold.
+
+This five-day festival is the traditional meeting place for the young and the young at heart. Saarang is characterised by jam-packed days of events and competitions. Be it the theatre arts, musical displays such as Decibels or the laugh-out-loud wackiness of extempore and Just-A-minute, Saarang always has the crowds screaming for more.
+
+The mainstay of Saarang has always been the five professional shows. Past editions have seen performances by prominent classical artists such as Balamurli Krishna, Ustad Bismillah Khan and Pandit Hariprasad Chaurasia, as well as international bands such as Opeth, Anathema, Architects and Skidrow. Saarang has also played host to light music shows by Shaan, S.P.Balasubramanian, Shankar Ehsaan Loy, Karthik, KK, Benny Dayal, Lucky Ali, Udit Narayan, Sonu Nigam, Sunidhi Chauhan and Vishal-Shekhar.
+
+Be it the acoustics or sound systems, Saarang promises a memorable experience for everyone. A large fraction of the student community works around the clock for months to ensure an improved Saarang each time around. Cherishing the support of a bevy of sponsors over the years, Saarang has always struck a chord with the people who flock to see it all.
+
+On the events front, Saarang also holds quizzes and other exciting events like WTGW, Picto and Tinto blend into Pot Pourie along with DumbCs, painting and modelling (apart from theatre), speaking events, creative writing and music among many others.
+
+One of the largest cultural festivals in India, Saarang attracts over 50,000 people from around the country. Held in January every year, Saarang is commonly acknowledged as the mother of all cultural festivals, a reputation that the Institute is honour-bound to uphold.
+
+This five-day festival is the traditional meeting place for the young and the young at heart. Saarang is characterised by jam-packed days of events and competitions. Be it the theatre arts, musical displays such as Decibels or the laugh-out-loud wackiness of extempore and Just-A-minute, Saarang always has the crowds screaming for more.
+
+The mainstay of Saarang has always been the five professional shows. Past editions have seen performances by prominent classical artists such as Balamurli Krishna, Ustad Bismillah Khan and Pandit Hariprasad Chaurasia, as well as international bands such as Opeth, Anathema, Architects and Skidrow. Saarang has also played host to light music shows by Shaan, S.P.Balasubramanian, Shankar Ehsaan Loy, Karthik, KK, Benny Dayal, Lucky Ali, Udit Narayan, Sonu Nigam, Sunidhi Chauhan and Vishal-Shekhar.
+"""
+
+Dept_fests = """
+AMALGAM: Department of Metallurgical and Materials Engineering
+
+BHOUTICS: Physics Department
+
+BIOFEST: Biotechnology Department
+
+ELEC FEST: Electrical Engineering Department
+
+CHEMCLAVE: Chemical Engineering Department 
+
+CEA FEST: Civil Engineering Department
+
+EXEBIT: Computer Science & Engineering Department 
+
+FORAYS:  Mathematics Department
+
+HSS DEPARTMENT CONFERENCE: Humanities and Social Sciences Department
+
+MECHANICA: Mechanical engineering Department
+
+SAMANVAY: Department of Management Studies
+
+WAVEZ: Department of Ocean Engineering
+"""
+
+Sangam = """
+Sangam serves as the conglomeration of all cultural clubs at the Institute, making it one of the largest student-run teams in the Institute. Sangam houses within it 16 different clubs, each catering to a unique and a niche art form and audience. Together these clubs redefine the cultural landscape of IIT Madras.
+
+Cultural Contingent:
+The Cultural Contingent of IIT Madras comprises the most talented and skilled people in the various art forms we cater to. As a part of the contingent, you represent IIT Madras in fests all around India, as well as in Inter IIT.
+
+Insti Radio:
+Insti Radio is a newly launched initiative aimed at connecting the campus in a unique, never-done-before way. There will be programs and fun segments 24/7, so be sure to check it out!
+
+CLUBS
+Music Club:
+The IITM Music Club conducts jam sessions, karaoke nights, open mics, etc., generates content along with institute musicians and helps to better the institute’s music scene. The club also conducts the music events in Saarang and organizes the institute’s music festival Raagabop every year.
+
+Drama Club:
+Everyone needs some drama in their life. Come be a part of one of the most happening clubs in insti! From Games After Dark (our initiator event) to Stage Design, to Scriptwriting, to Stagecoach (our flagship event), the Drama Club has space for all! Join us as we celebrate over 60 years of existence and be part of a club that has nurtured many who went on to be professional thespians!
+
+Choreo Club:
+Choreo Club is committed to uplift the dance culture in IITM. The Choreo Club conducts workshops catering to people belonging to different proficiency levels throughout the semester. The club believes dance is all about moving in joy and the better you learn how to move the more joyful you become.
+
+Classical Arts Club:
+The Classical Arts Club plays a pivotal role in promoting and supporting the classical arts within insti, be it the budding rasika or the consummate vidvan. Over the past year, the CAC has played host to artistes of renown like Nithyasree Mahadevan, Leela Samson, Charumathi Raghuraman, and many more. Its various educational and collaborative initiatives have been much lauded, as it strives to be the one-stop destination for all classical art forms, being as inclusive as possible. As a hub for all manifestations of the Classical arts, from appreciation to performance, its activities are a rich addition to the insti cultural scene.
+
+Comedy Club:
+Laugh, cry, spit, and suffer.
+Make jokes on your would-be lover.
+We present The comedy club, boi.
+To mediocrity, say goodbye.
+With events like stand-up comedy, couch potatoes, open mics, parody songs, the Comedy Club is sure to leave you in splits!
+
+Oratory Club:
+Want to engage in passionate wars of words? Want to voice out and justify radical stances? Want to move audience after audience with your eloquent and persuasive speeches? Or charm them with your brevity, wit, and humor? Fret not, for the Oratory Club is just the place!
+
+Word Games Club:
+Do you flip to the last page of the newspaper every day just to get to the puzzle section? Ever noticed that ‘the Morse code’ rearranges to ‘here come dots’? Or ‘New York Times’ to ‘monkeys write’? Whether you’re a Jack of all wordplay, a master of puns, a compulsive anagrammer, or just someone who finds the antecedent verbosity even remotely relatable, then this is the place to be!
+
+Writing Club:
+Have you always been a bookworm, flipping through one book to another with ease? Are you a connoisseur of words, weaving poetry and tales with ease? Are you someone bursting with stories to tell but don’t know where to start? The Writing Club is a community for everyone, ranging from novices to professionals, poets to artists, and readers to general enthu nuggets who want to explore all insti clubs!
+
+Quiz Club:
+One of the oldest clubs on campus, the IITM Quiz Club is one of the best in the country. If trivia excites you, if you like to tickle your grey cells by asking and answering questions, if you want to enjoy the thrill of “cracking” a well-framed question, then QC is the place to be!
+
+Media Club:
+We are a group of enthusiastic people passionate about photography, film-making. If you are someone who finds capturing moments, telling stories, and showing the world around through your perspective, then this is the place to be! We at the club enable you to pursue this art and have fun in the process through a super exciting array of workshops, lectures, photo walks with professionals to scenic places, and competitive events.
+
+Fine Arts Club:
+Fine Arts Club is a club that primarily focuses on inculcating the culture of art and its varied forms amongst the students through its events and workshops. We believe that "Art makes you lose yourself and find yourself at the same time."
+
+Design & VFX Club:
+Weaving technology with creativity, the Design and VFX Club focuses on the actualization of creativity and digital media and tools. Hop on to our wagon to explore digital illustration, graphic design, animation, UI/UX, video editing, and loads of other cool stuff! (And discover the opportunities in those fields en route xD)
+
+Fashion Club:
+Interested in Paris fashion week? Avid fashion lovers, here's Fashion Club for you. The club gives you an opportunity to be a part of ramp walking workshops, modeling, and other aspects of fashion. Apart from this, the club also organizes Mr. and Miss Freshie, Unfold, and Panache, one of the biggest fashion shows in India.
+
+Culinary Arts Club:
+Culinary Arts Club is the newest addition to the Sangam family! If you're fascinated by Masterchef and love food, Culinary Arts Club is the place to be! Help steer insti's food and cooking culture through workshops, competitions, food fests, and more!
+
+Informals Club:
+Informals Club endeavors to bring together insti through a variety of fun and entertaining events throughout the year. In a better world, you’d see numerous life-sized games at KV grounds, the happy faces of people playing amusing games near the Carnival, and the intense Street sports games happening around during Saarang, all thanks to us.
+
+eSports Club:
+Want to make your way in the fastest-growing industry of the digital era? The eSports club is the place to be – from streamers to professionals, we have it all. Be a part of the largest eSports event in South India or just help your hostel survive in the midst of fierce inter-hostel rivalries. Watch the best of the best compete or be one of them, one of the youngest and fastest-growing clubs of the insti welcomes you.
+
+Nova:
+Ever thought of being part of the biggest cosplay event in Chennai? Ever thought which team brings up all the new events of Saarang? The answer is Nova. If you want to be a part of the team which brings up something new, exciting, and quirky every year, join the ever-evolving team of Saarang, Nova.
+
+Spotlight:
+Spotlight is the Saarang team which takes care of all the lecture series. From GVM to the cast of Scam 1992, Spotlight 2021 was power-packed with individuals from all walks of life. Previous speakers include Kamal Hasan, Nawazuddin Siddiqui, Shashi Tharoor, Sid Sriram, and many more. By the end of Saarang, your insta is going to be filled with your photos with celebrities.
+
+Meraki:
+Meraki aims to bring you the unconventional at every Saarang. In 2020, we had the Ferris wheel and the Columbus ride, the various inflatables at KV and the Vintage Car Expo. In 2021, you would have been intrigued by the Tatting workshop and amazed by the Whistling act, Carnatic fusion act, and the sand art act. In short, Meraki brings life to the streets of Saarang and bling to your Saarang experience.
+"""
+
+Shaastra = """
+Shaastra is the annual technical festival of IIT Madras. True to its name, the Sanskrit equivalent of science, Shaastra is a celebration of unconstrained thinking and love for the spirit of engineering. A melting pot of diverse disciplines in science, it provides the opportunity to catch a glimpse of the latest worldwide trending technologies.
+
+Established in 2000, Shaastra held its 20th edition this year. The completely student-run techno-managerial festival stretches over four days and nights in the first week of January. The fest holds the distinction of being the first student-managed event in the world to implement a Quality Management System and earn the ISO 9001:2000 certification. This has since been upgraded twice to ISO 9001:2008 and ISO 9001:2015 certifications – a testament to the impeccable standards of the festival over the years.
+
+Shaastra has always been a tremendous learning experience for the organisers, participants and visitors. The fest attracts an immense number of participants from diverse technical, scientific and managerial backgrounds, from school students to graduates, academicians to professionals, engineers to entrepreneurs. Shaastra also has something to offer to non-hardcore techies, with events such as drone wars, laser shows and firework displays that make up a huge part of the Shows and Exhibitions every year.
+
+Shaastra’s intense competitions, lectures and a variety of informative workshops all form a platform to showcase knowledge and enthusiasm. Envisage 7.0 was a one-of-a-kind techno-entertainment show, fully crafted by IIT Madras students, that showcased several new exciting acts. Watch out for Fire and Ice, Shaastra Junior Quiz, RoboWars, BrandWars, Hackathons and several other techno-managerial competitions that test the participants’ mettle to the extreme. In the Spotlight Lecture Series, pioneers of technology around the world share their views on the latest global updates.
+
+The Research Expo is a great stage for students and researchers across the nation to showcase their groundbreaking research, while The Summit at Shaastra gives students the opportunity to display their solutions to society's most pressing problems. Meanwhile, Shaastra Solutions is an initiative that aims to bridge the gap between universities and industries by outsourcing problems and assignments faced by companies to undergraduate students across India.
+
+IIT Madras hosts Shaastra, an annual technical event. True to its name, Shaastra—the Sanskrit word for science—is a celebration of free thought and a devotion to the engineering spirit. It offers the chance to get a glimpse of the most cutting-edge technology that is currently popular all over the world and is a melting pot of several scientific disciplines. For the organizers and participants from various technical, scientific, and management backgrounds, Shaastra has always been a very beneficial learning experience. There is something for everyone, from schoolchildren to university grads, academics to businesspeople, and engineers to entrepreneurs. People who aren't ardent technophiles can benefit from Shaastra as well. The fact that Drone Wars, Laser Shows, Fireworks displays, and other events are regularly included in Shows and Exhibitions shows that one need not always be an expert to appreciate what science is capable of. Intense competitions, lectures, and a variety of educational courses provided by Shaastra provide a stage for participants to demonstrate their knowledge and enthusiasm. Watch out for competitions that put contestants' mettle to the absolute limit, such as Fire and Ice, Shaastra Junior Quiz, RoboWars, BrandWars, Hackathons, and others.
+
+"""
+
+E-cell = """
+Established in the year 1959, Indian Institute of Technology Madras is today one among the foremost institutes of national importance in higher technological education, basic and applied research.
+
+Within its lush green premises, the Entrepreneurship Cell was set up in the year 1998, with its former name being Centre for Technological Innovation, Development and Entrepreneurship Support (C-TIDES).
+
+Harbouring a population of over 10,000 people including students, faculty and general staff, it is reputed internationally for its quality of teaching and outstanding calibre of the students from its graduate and post graduate programs. Not only is the Institute pioneering with blossoming innovations and cutting-edge technology, but also the swarm of ventures and the impact that it has created and will be creating in the innovation and entrepreneurship ecosystem as a whole.
+
+Over the years, Entrepreneurship Cell is known to have nurture some of the best startups in the entrepreneurship arena like Detect Technologies (Forbes 30 Under 30 – Asia), Hyperverge and many more among others and had privilege to work under the leaders like Mr. Tarun Mehta (Co-Founder, Ather Energy) being the Head of the organization during his Institute Days and are.
+
+Vision
+We strive continuously towards nurturing individuals with creative minds, innovative ideas and potential for substantial business opportunities. We seek to enable smooth and efficient interaction between its principal components spanning students, faculty, working professionals, aspiring and existing entrepreneurs, mentors, angel investors and venture capitalists, thus consolidating the entire pipeline of entrepreneurship ecosystem and serving our vision to Empower Entrepreneurship at IIT Madras.
+
+Mission
+We, at The Entrepreneurship Cell, are missioned with a common goal to inculcate the spirit of entrepreneurship among young minds and become a pathway towards India’s socio-economic development, for India to emerge as the supernation in the coming years. In its glorious 20 years of existence, E-Cell now created its unique brand value on a pan-India scale with a plethora of initiatives taken up and conducted along the line of our vision to empower entrepreneurship.
+
+What we do?
+Entrepreneurship Cell IIT Madras makes the entrepreneurial world accessible to all group of people part of the IIT Madras ecosystem, cater the audience from startup enthusiast to hardcore entrepreneurs, with plethora of yearlong events like Conclaves, Keynotes, Industry-defined Problems, B-Planning Competitions and Workshops, through both personal and collaboration-based approach.
+
+Some of our satellite activities includes Startup Series Sessions, and our annual entrepreneurship fest, E-Summit - largest in the region and from this year is going to be the first student-run ISO Certified Entrepreneurship Event. E-Summit is now revamped to make it more focused and helpful for all the stakeholders, thus making our initiatives and support system accessible to not only our campus, but the community outside as well, through several dedicated programmes like Campus Director Programme and Entrepreneurship Cell Development Drive. We have now even started and are now the first in the domain to promote entrepreneurship in school students through initiatives like Education-21 (E-21) and nurture entrepreneurial mindset in them.
+
+Have you ever questioned why college students quit lucrative positions with global corporations to pursue entrepreneurship instead? The campus of IIT Madras is currently seeing a trend encouraging entrepreneurs. Every person, including you, is capable of having an entrepreneurial mindset, in our opinion.
+
+E-Cell (formerly known as C-TIDES) was founded in 1998 with the purpose of promoting the entrepreneurial spirit, giving people the correct advice, supporting companies within the institute, and launching future leaders into a field where they can effect change and, in turn, benefit society as a whole.
+
+The Entrepreneurship Cell has developed as a cornerstone of the thriving startup culture at IIT Madras. The Insti startup culture is one long, captivating tale of change. E-Cell collaborates closely with the Centre for Innovation (CFI), the Pre-Incubation Cell - Nirmaan, and the Incubation Cell to make the entrepreneurial journey of individuals and startups more comfortable. By doing this, they are able to inspire the spirit of entrepreneurship among other nascent but anxious ideators. By planning conferences, social events, lectures, speaker engagements, and workshops, we hope to unleash the students' hidden creative potential.
+
+
+Contact us
+Yash Mittal: +91 73003 53030
+Dhawal Shukla: +91 78983 07770
+sr_ecell@smail.iitm.ac.in
+"""
+
+CFI = """
+The Centre for Innovation (CFI) was established on the premise that innovation emerges through community interaction and the freedom to learn and experiment. Constituted in 2008, with the help of funds raised by the class of 1981, this unique 24/7 student lab is located at the New Academic Complex in the heart of the campus. After almost a decade of the team's zeal and passion, combined with a comprehensive inventory, ample workspace, guidance from faculty and students, CFI is a house to 13 clubs, 4 competition teams, and counting. These clubs' interests are spread over a wide spectrum, primarily fostering innovation and invention in technology, with a focus on technologies aimed at contributing positively to the environment and to society. The team frequently represents IIT Madras in national and international competitions. It also constitutes an integral part of IIT Madras' entrepreneurial culture, with many CFI projects turning into startups.
+"""
+
+Inter_IIT_Tech_Meet = """
+When there is an inter-IIT meet for sports and culturals, why not for tech enthusiasts? Inter IIT tech meet is for the big brains of the country to showcase their talent and raise the name of the institution they come from. This event usually happens in the even semester and is hosted by any one of the participating IITs. The first version was in 2013, and the 10th tech meet happened at IIT Kharagpur in March 2022. Tech meet gives you a chance to meet the most brilliant tech enthusiasts in the country and explore their projects. The events give you an opportunity to initiate, interact, and innovate. These initiatives help in fostering the spirit of innovation and igniting young minds towards a more technologically and economically viable future. It sets an ideal platform for collaboration among the students to create impactful technology and knowledge transfer across the student community.
+"""
+
+Nirmaan = """
+Nirmaan, The Pre-incubator at IIT Madras, aims to provide the experience of entrepreneurship to the student community. NIRMAAN acts as a sandbox for aspiring entrepreneurs of IIT Madras to practice the highs and lows of entrepreneurship with a deferred placement. We strive to offer our students a firsthand experience of what it takes to be an entrepreneur.
+
+It acts as a conduit between the students at the institute and the IIT Madras Research Park's Incubation Cell, encouraging them to think beyond internships and develop their creative endeavors into profitable businesses. Nirmaan provides collaborative workspace, mentorship, daily assistance, and much more. Currently, Nirmaan has over 125 startups, 44 of which are in the active stage, and 19 of which have developed into successful firms.
+
+"""
+
+TechSoc = """
+What I cannot build, I do not understand.
+We fight. We build. We win. And eat pizza.
+
+In 2007, a small group of highly ardent IIT Madras students formed a team to inspire the creation of competent technology solutions to solve society's most pressing problems through a set of competitions and events.
+
+Here's to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes... the ones who see things differently. They're not fond of rules, and they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them, but the only thing you can't do is ignore them because they change things. The people who are crazy enough to think they can change the world are the ones who do.
+
+Very simply put, Tech-Soc was first born as a tournament where hostels could compete against each other in all tech-related events for points, power, and glory. Tech-Soc was founded in 2005 and has since grown steadily, adding events to its repertoire every year. Together with Schroeter and Lit Soc, it forms the three independent "Big" trophies that hostels compete for every year. Tech Soc is being re-envisioned as a forum with a much wider reach than just inter-hostel events. It has now become the umbrella under which all tech-related student initiatives will be encouraged and nurtured. In the odd semester, various informal sessions like "Fundae" and Tech interaction sessions will also be organized so that the freshmen can learn about the tech world they are about to enter. Apart from these, one can join various clubs related to the technical world.
+
+We always have something going on for the tech-savvy. You get to dirty your hands and build stuff on your own or participate in tech quizzes or watch the spectacle as the different hostels battle it out in Tech Soc.
+
+Scoring System
+⭐ NOTE: The participants' hostel will be the one they are currently residing in this semester. For example, for Cauvery residents, while virtual allocation might say something else, since they are residing in Cauvery for the July-November 2022 semester, they will be representing Cauvery.
+
+The Inter Hostel Events of IIT Madras are divided into 4 categories - Low Prep, No Prep, Mid Prep, and High Prep:
+
+Event Difficulty - Meaning
+No Prep - No preparation required from participants' side. Event is on-spot and will be over within 2-3 hours.
+Low Prep - 1-5 days of work required from participants.
+Mid Prep - 6-12 days of work required from participants.
+High Prep - 12+ days of work required from participants.
+
+Points are awarded to any participating team from any hostel for 3 reasons - Winning Points (decided as per event difficulty), Parti Points, and Brownie Points.
+
+NOTE: While the total points for each event category shall be retained, the points breakdown may change as per the event difficulty level. For example, in an event where submission itself is a difficult task, the variance between winning points awarded for different positions will change.
+
+Parti Points - These points shall be awarded to any "parti"-cipating team/individual representing the hostel.
+
+We have defined a "normalization factor" (N.F.) to ensure an equitable distribution of points as per hostel strength. This is done to ensure that a similar participation percent from different hostel strengths is awarded equally.
+
+Normalization factor = Number of participants from hostel / Hostel strength
+
+Total Participation Score = Normalization Factor * Event Difficulty Constant
+
+For different levels of event difficulty, different constants will be set.
+
+Brownie Points - These points shall be awarded for a team/individual that did not get a podium finish but displayed exemplary performance. This will be at the discretion of the organizing club. More than 1 team can be awarded different values of brownie points.
+
+TECHNICAL SOCIETY, IIT MADRAS
+Sudha and Shankar Innovation Hub, Indian Institute of Technology, Madras.
+
+CONTACT DETAILS:
+Heads:
+Prabhat - +91 91082 59723
+Anouksha - +91 94978 44857
+techsoc@smail.iitm.ac.in
+
+"""
+
+
+Sports = """
+Sporting at IIT Madras is not merely an activity. It has, over the years, gained so much ground that it finds itself ingrained in the IITM culture. The level of enthusiasm this sporting culture generates extends beyond the campus walls; it's a source of an adrenaline rush for other colleges in the city and the country as well. The academic calendar is crowded with sporting events, including intra-hostel and inter-hostel events, as well as inter-collegiate and inter-IIT tournaments. All the hostels actively compete to win the coveted Schroeter Cup, which is the Inter-Hostel Sports Championship. In addition to all these, we've added a couple of surprises for you this year! The institute has excellent sporting facilities on the campus, which include:
+
+1. K.S. Narayanan Center for Cricketing Excellence
+2. A perfect Athletics stadium
+3. Four synthetic-floored Tennis and wood-floored Badminton courts
+4. An Olympic-size Swimming Pool
+5. Hockey and Football fields with floodlights
+6. Two Basketball and two Volleyball courts
+7. A well-equipped Gymnasium with professional instructors
+8. Two world-class Squash courts
+9. Weightlifting Arena
+10. Table Tennis facility
+11. A skating ring around Sangam ground
+
+The surprise of the year awaits you in the form of 'Sporting Clubs.' For all those passionate about sports, we are forming Sporting Clubs this year - a whole new initiative to give you an unparalleled premier sporting experience year-round! The currently planned Sporting Clubs are:
+
+1. Aquatics Club
+2. Athletics Club
+3. Badminton Club
+4. Bridge Club
+5. Cricket Club
+6. Football Club
+7. Hockey Club
+8. Squash Club
+9. Table Tennis Club
+10. Tennis Club
+11. Volleyball Club
+12. Weightlifting Club
+13. Chess Club
+14. Forest Gumps
+15. Frisbee Club
+16. Fitness Club
+17. Cycling Club
+"""
+
+Schroeter = """
+Didn't find your club? Fret not! We assure you that more clubs will be formed in the future. Blessed with the most spacious of all campuses, IITM has just the perfect match for the wants of the most avid among sports enthusiasts. During the course of the year, all the hostels compete for the 'Schroeter' (pronounced as "shroy-eter" - read more about it on the IITM sports website), a trophy for the best hostel in sports. The competition is so fierce that you might just be reminded of an Indo-Pak Cricket match! Now that's not simply mincing words - you have to witness it to believe it!
+"""
+
+Inter_IIT_Sports = """
+A General Championship (GC) is awarded to the team with the best performance in both the events. The seven old IITs take turns, hosting the Meet in all splendor. This fierce competition for pride, prestige, and glory equally embraces a great spirit of sportsmanship, which marks these moments as the most cherished memories of an IITian's life. The Meet is perhaps the only event that provides an opportunity to meet and interact with students from the other IITs. IIT Madras has had its major share of glory, excelling continually at these games and winning the General Championship (GC) eleven times in a row in the past. With over 19 wins in 51 Inter IIT Sports Meets so far, IIT Madras has propounded itself as an unstoppable force in the history of the games, thanks to the brilliant performance from the students.
+"""
+
+
+Ragging = """
+Ragging must be a word that is bothering you at the back of your mind. Well, at the outset, let us inform you that the practice of ragging is not condoned by the institute in any form. If you have any problems regarding this, please feel free to contact your SMC mentor or the hostel warden. Do not let this word alarm you. All you may have would be a small chat with a group of seniors, who would crack a joke or two, with the intention of easing the air around and to break the ice. This friendly conversation has always ended up in leaving both the parties close to each other. For the seniors, it is the time to get rid of unwanted books. For the juniors, it is an hour or two well spent getting to know the ropes. Nothing more, nothing less. We empathize in case you feel uncomfortable and are always free to let them know or leave the place. Also, please let your mentor know if someone is not abiding by the above.
+"""
+
+Gender Sensation = """
+Sincere efforts have been made to ensure gender equality on campus. Just as the Government of India has devised many legal provisions to ensure the safety and dignity of all genders, IIT Madras too, earnestly strives to create an environment of freedom, autonomy, and privacy with the help of its students, faculty, and staff. People of all genders on campus are entitled to all legal and fundamental rights and a safe, dignified and conducive environment where they can be trained for their professional careers and to realize their full potential as individuals. While many measures are taken to ensure safety on campus, it’s possible to face gender-based discrimination everywhere, and we at IITM recognize that the first step is to speak openly about such issues. As such, it is everyone’s duty to be aware of the rules and rights in such a scenario. Sexual harassment is NOT tolerated on campus, and every individual must be careful about not indulging in such behavior. Preethi Aghalayam, the Women’s Forum with female faculty as members, works with CCASH to provide gender sensitization and awareness through talks, events, discussions, etc.
+"""
+
+Insti_Lingo = """
+A few minutes into the campus, you will encounter students conversing among themselves in a tongue which comes across as plain gibberish. Welcome to IIT Madras! The IIT Madras lingo has words extending beyond the realm of the bulkiest Oxford Dictionary or the most exhaustive Websters. Students at IITM, over the years, have developed their own indigenous vocabulary which symbolizes the two traits of an IITian demarcating him from the average guy next door: Creativity and Brevity. In this age of time management gurus and their techniques, our lingo stands out as a wonderful example of concision. Infact, there is a thesis written on the lingo used at IIT Madras. (We kid you not!) For more on Insti lingo, look out for T5E’s web series dedicated to freshies! Or check it out on Mitr App.
+"""
+
+Electives = """
+At IIT Madras, students have the freedom to select 50% of their course offerings. This includes the option of spending the entire semester studying abroad and pursuing electives from any department.
+
+Even among the IITs, Indian Institute of Technology Madras boasts one of the greatest academic curriculum available and provides unparalleled academic flexibility. The Ministry of Education, Government of India, has given IIT Madras the remarkable distinction of being the only Indian Institute to have been ranked as the No. 1 Engineering Institution for five consecutive years.
+
+In IIT Madras, students have the freedom to choose nearly 50 per cent of the courses that they will be studying, with only some restrictions. Out of the electives, students are free to choose about eight courses (called 'Free Electives') from any of the 16 departments of IIT Madras as well as other approved institutions. The students can get 72 credits from pursuing courses as diverse as 'History of India,' 'Psychology,' and 'Economics' to 'Artificial intelligence' and 'Machine Learning.'
+
+How to choose courses in IITs?
+
+If a student chooses four such courses in one contiguous area, they will be conferred a minor in that field. For example, if a student chooses four courses in Economics, IIT Madras will confer a Minor in Economics to that student. There are large numbers of minor courses being offered by IIT Madras.
+
+The detailed curriculum and syllabus for each program can be found here.
+"""
+
+Honours_programme = """
+To obtain an honours degree, students will have to maintain a CPA greater than or equal to 8.5, complete a 27-credit project (wherein one is expected to put in 27 hours of work every week throughout the 16-week semester) and earn at least 18 of the free elective credits in their parent department. The program, however, is open to only BTech and Dual Degree students.
+"""
+
+Hostel = """ 
+The hostels are located sufficiently far from the departments. There are around 21 hostels, out of which five are girls’ hostels and all are named after various Indian rivers. In order not to disturb the greenery and to maintain the ecological balance, though we have a vast campus with places spread out, students are not allowed to drive powered vehicles on the campus. They can only use bicycles or walk. The institute operates buses and vans from the main gate to different parts of the campus and around Hostel and Academic zones at frequent intervals for easy travel. The first-year undergraduate students will be accommodated in a double/triple occupancy style accommodation; in subsequent years, single rooms are allotted. PG students are given single rooms. Internet and Local Area Network (LAN) facilities are provided in every room and there is a computer room in the hostels as well. You will also be given an email account on the institute server.
+
+It is expected that the residents of the hostels shall follow the rules and regulations, violation of which will lead to appropriate disciplinary action. A copy of the rules and regulations document is available at https://ccw.iitm.ac.in/. Please go through this important document carefully, especially the code of conduct.
+"""
+
+Campus = """
+The magnificent IITM campus is spread over an area of 617 acres with multiple facilities like those enlisted below:
+
+1. Central library - apart from the department libraries, we have a 5-floor Central Library near Gajendra Circle. The biggest reason why people visit here is to fight the humid weather of Chennai along with unlimited WiFi. It has lakhs of books which can be read there itself or borrowed out by the insti ID card.
+
+2. Students' Activity Center is a top player in the category student Activities in the IIT Madras. From regular badminton, cultural activities, co-curricular activities are the biggest crown-holding events that happen here with the capacity of more than 3000+.
+
+3. Swimming Pool - 2 such - larger being 15 feet deep and smaller is 1.5 feet deep. Olympic standard pool is available.
+
+4. Insti Hospital - 24*7 availability with ambulance service.
+
+5. Watsa stadium - 400m, 8-lane synthetic track for athletic events.
+
+6. Open Air Theatre - Film club hosts movies here in 4 languages every Saturday, so be ready for an exciting experience awaiting.
+
+7. Sports Complex - 4-story building with Gym (open to all along with trainers), Yoga hall, squash court, weightlifting facilities.
+"""
+
+Student_governance = """
+In India, there are very few colleges that offer a supportive environment where students can express their concerns and thoughts. But IIT Madras is distinct from other universities. The respect accorded to student voices, which has been codified in the form of the Students Constitution, is one distinct feature of our institute that distinguishes it from other colleges. An outline of student governance in general, including its elements and roles, is provided here.
+
+Student Legislative Council & Executive Council
+
+The student legislative council is also tasked with assisting the offices of the deans of students, academic courses, academic research, and international & alumni affairs in running day-to-day student matters through the Executive council. The Student Governance process of our Institute is most prominently represented by the Executive Wing, which is made up of student representatives who are directly elected by the General Student Body.
+1. The Student General Secretary
+2. The Hostel Affairs Secretary
+3. The Sports Secretary
+4. The Co-curricular Affairs Secretary
+5. The Academic Affairs Secretary
+6. The Research Affairs Secretary
+7. The International and Alumni Affairs Secretary
+8. The Cultural Affairs Secretary (Literary)
+9. The Cultural Affairs Secretary (Arts)
+10. Speaker, Student Legislative Committee
+
+The Student Legislative Council elects a Speaker who preside over meetings, oversees the day-to-day operations of the Student Legislative Council, and serves as a liaison between the Student Legislative Council and the Executive Wing in addition to these nine secretary members.
+"""
+
+Dept_council = """
+The centers of our institute's life are its departments, which rank among the most vital. Some of the most significant events in a student's life, such as freshmen orientation and placements, are handled by our departments. Each department chooses a group of student representatives to help with these activities. As follows:
+1. Department Legislator
+2. Research Councillor
+3. Research Legislator
+"""
+
+Hostel_council = """
+Every hostel has a unique need, and each one requires students to manage its daily operations. Every hostel elects student representatives to oversee various elements of dorm life for this reason. The Hostel council is made up of these student delegates, the Hostel warden, and the Assistant Warder. The following individuals represent students on the hostel council:
+1. Hostel General Secretary
+2. Hostel Legislator
+3. Sports Legislator
+4. Social Secretary
+5. Literary Secretary
+6. Technical Affairs Secretary
+"""
+
+T5E = """
+T5E, or The Fifth Estate, is IIT Madras’s official campus news and media body. Established relatively recently in 2009, T5E is responsible for reporting on campus events and activities and also bringing out content on a wide range of issues relevant to the IIT Madras community, be it students (prospective or current), parents, faculty, or staff. In the last few years, T5E has expanded drastically in terms of outreach and content, and made a name for itself in the institute. One of its main distinguishing features is that it remains neutral and unbiased both in its coverage and internal functioning, having prided itself on working in a transparent and accountable manner.
+
+In 2002, The Fourth Estate or TFE came into being to bring together the institute’s literary talents on a common platform to write about institute events and activities. This institute magazine covered essays, opinion pieces, news, and fiction. Published and circulated in the form of hard copies, the magazine made for a really fun read and was mandated as an institute body under SAC and funded by the Dean of Students.
+"""
+
+Mess = """
+Food is usually a major problem during the hostel life but IITM provides quality food through its three messes. Messes in the insti are named after different mountain ranges in India, namely Himalaya, Nilgiri, and Vindhya. Himalaya, as the name suggests, is the biggest mess with three floors. With a food court on the ground floor. The lawns of Himalaya host fun events usually hosted by clubs, and it is a perfect spot to chill with friends at night. There are North and South messes and a food court available, and students can choose their desired mess through the mess registration. If you get bored of one mess, you have the option to switch the mess every month. You can access the menu and timings in the InstiSpace App.
+"""
+
+Worship = """
+Numerous houses of worship are among the many amenities that nearly all students might possibly need to be scattered around the lush IIT Madras campus.
+
+On campus, there are three temples:
+The Shree Durga Peeli Amman Temple (Processions take place at the Shree Durga Peeli Amman Temple on Delhi Avenue during Navratri).
+The Jalakandeswarar Temple (Mahashivaratri and other celebrations, as well as sporadic classical artist performances, are held in the Jalakandeswarar Temple next to the Adyar Gate).
+The Vinayagar Temple (Celebrations for Ganesh Chaturthi and Saraswati Pooja take place at the Vinayagar Temple, located behind Taramani Guest House).
+
+On Sunday mornings, it is simple to find the chapel behind the Department of Biotechnology by listening to the sound of the choir. The chapel, which just celebrated its sixth birthday, holds Mass and other events like "intercession of prayers," in which members receive handwritten, anonymous petitions and subsequently pray for the recipient. Catholic Mass is held every Sunday at 8:30 am in the NCC building in addition to the chapel; the community also frequently participates in charitable work, visits to orphanages, and other activities.
+
+There is a prayer hall for Islamic Students, located behind the Students Facilities Centre, near the Himalaya Mess, where people offer prayers regularly. The Friday sermon is conducted in English. Besides this, the community organizes activities and classes for members of the Islamic faith, such as the recitation of the Quran and more.
+"""
+
+Indep_bodies = """
+SABHAS AND SAMITIS
+There are a lot of regional clubs on campus that organize cultural events, get-togethers, and meals throughout the year. Regional club members include not only students, but also faculty and staff. In the first year, they are a great way to make new friends and keep homesickness at bay, so watch out for notices on campus announcing their events, especially for freshers. The regional clubs on campus include:
+
+Hindi Mitra Mandal (HMM)
+Hindi Mitra Mandal is a group of enthusiastic students who celebrate the diversity of our country. We have a good history of organizing Festivals, cultural programs, and joyful events like Holi Celebration, Krishna Janmashtami, Diwali, and Navratri in our institute.
+
+MARATHI MITRA MANDAL
+Marathi Mitra Mandal is an Institute-recognized, a student-driven body coming under the various regional Samitis on the campus. There are more than 300 students coming from all over Maharashtra for various programs, and the organization aims at keeping the Marathi culture and spirit alive on the campus through various events and festivals, celebrated with great pomp in Maharashtra. Notable events conducted include Ganesh Chaturthi, Dahi Handi, a musical event Indradhanu in the odd semester, and a drama event Snehabandha in the even semester.
+
+GARVI GUJARATI SANGATHAN
+Garvi Gujarati Sangathan is a body of Gujarati students on our campus. It has been formed with a view to provide a platform for Gujarati students on the campus to know, meet, and bond with each other. GGS also aims to celebrate the cultural festivals which are prominent in Gujarat like Navratri, Shivratri, Janmashtami, and more, giving us a chance to enjoy and cherish the festivals and culture here away from home.
+
+SADINER (Students Association for Development of India's North East Region)
+SADINER is the association of the students coming from the North East region of India which is involved in various social and cultural activities in the campus. Our association has had an active participation in events like Independence Day, Republic Day, etc in the institute as well as played an active role in social activities like organizing flood relief funds for the North Eastern states. Our flagship event is the North East India fest which is organized every year in the Spring Semester.
+
+DIGANTO
+Diganto, the Bengali Association of IIT Madras is not only an organization that unites all Bengalis who are part of this institute, but it is more like a family where we meet people speaking our native language and share the same culture that brings us the essence of being at home in Chennai.
+
+KARKA KASADARA TAMIL CLUB
+The objectives of the club provide and maintain social, academic, and recreational amenities for its Tamil members and to teach Tamil to non-natives, to acquaint them with the language and its culture as well as to conduct training and workshops by teachers of foreign languages and Tamil, to both the non-native and the native audience.
+
+TELUGU SAMSKRITIKA SAMITHI
+Telugu Samskritika Samithi is a group of enthusiastic students who celebrate the Telugu cultural diversity of our country. They organize Festivals, cultural programs, and celebrate events like Vinayaka Chathurthi, Krishna Janmashtami, Rama Navami in our institute.
+
+KERALA KALA SAMITHI (KKS)
+KKS was initiated decades ago and grown with the support of faculty and students. The precious legacies, powerful aspects of language, poetry, drama, dance, Mohiniattam, Kathakali, and so on chiefly based in Kerala, are really fascinating and it will be of immense individual and collective advantage to arrange for sharing the experience and insights of the population from one region with those of the neighbors, structured on a sober platform of long-cherished ethic through this platform.
+"""
+
+WiFi_LAN = """
+LAN is available in every room of all Hostels. Students have to bring their own LAN cable to connect it to their Laptop/PC. And Wi-Fi is available in Academic Section, In Library and many more places.
+
+For connecting to Wi-Fi, you just have to select iitmwifi in the Wi-Fi option on your device and connect it through your roll number and LDAP Password.
+
+General Instruction to connect LAN:
+
+Firstly, we have to do Remote Proxy Setup.
+Remote Proxy Setup:
+If you require access to workflow.iitm.ac.in, academic.iitm.ac.in, or other internal websites OR journals available through IITM subscription, other restricted websites available only through IITM network and do not otherwise need access to licenses or servers inside IIT Madras, please use the following proxy setup instead of VPN. Instructions are given here for Firefox only - for Chrome or Internet Explorer/Edge, you will need to see how to set up the proxy options. Also, the instructions here are only for the desktop, so please give feedback if you know how to make it work for mobile browsers.
+
+Step 1: Open the “Preferences” page in Firefox.
+Step 2: Open the “Network Settings” page under the Preferences (search for “proxy” should do it).
+Step 3: Set the Proxy Auto-Config URL and reload if necessary.
+Step 4: Log in with LDAP credentials (not ADS).
+
+Effect:
+Once the above steps are done, you should find that only traffic destined for workflow, academic, journals, etc., goes through the proxy, and everything else goes through your regular network. For any issues, mail to helpdeskcc@iitm.ac.in.
+"""
+
+FacAd = """
+Faculty advisors are professors assigned to a group of students, often by roll number basis, whose task is to assist one throughout their stay in IIT Madras with any academic or other help they may require. Whether it entails settling in a hostel, feeling homesick, having concerns about certain procedures, or needing academic advice, there is nothing that isn’t within the spectrum of acceptable issues to approach your faculty advisor with. They will simply refer you to the concerned person/body if they feel that the matter is out of their jurisdiction to solve. Most professors ensure regular meetings with their assigned students to stay in the loop; others may not. It is therefore important to make yourself known to your respective advisors, in order to avoid being stared at dubiously and then asked who you are if, on the off chance, you decide to finally approach them for help after two years of never having met them. In some cases, there is a round of introduction of faculty advisors during the respective department orientations, so it is advisable to pay attention.
+"""
+
+Websites = """
+courses@iitm.ac.in:
+This is the main academic website that gives you a list of all your courses and the teachers that teach you those courses. It is the all-in-one academic platform where you’ll be given assignments and additional course material. All your quiz papers, tutorials, and solutions will be uploaded on your personal account. In fact, some professors even prefer taking quizzes through this. The website has an app version called Moodle which is a must-download. You can log in to Moodle using your L-DAP credentials, which is basically your roll number as your login ID and a unique password. ‘Uploading on Moodle’ is a term that you’re going to hear very often throughout your insti life.
+
+workflow@iitm.ac.in:
+Workflow IITM is the website that you’ll be using to register for all your courses officially. During the add-and-drop courses week, you can register and deregister courses if approved by your faculty advisor. Workflow can only be accessed by logging into netaccess.iitm.ac.in through your L-DAP credentials or using institute WiFi.
+
+http://ccw.iitm.ac.in/:
+This is the Hostel Management Portal of IITM. Any hostel-related issues, be it mess biometric registration, hostel fee payment, complaints, or suggestions, are to be addressed through this portal.
+
+http://academic.iitm.ac.in/:
+This website lists all the courses offered by different professors of the institute. It provides information about every course in detail. Again, accessible only through insti-net, it gives the students an overview of their academic curriculum.
+
+https://nptel.ac.in/:
+NPTEL or National Program on Technology Enhanced Learning is a website that has a collection of educational videos on various courses taught in the curriculum of the top 7 IITs and IISc. These courses are taught by the professors themselves and are accessible to everybody. You can enroll and get certified for the same.
+"""
+
+NSO_NCA_NSS_NCC = """
+Talking to freshies, I am reminded of the same awe and bewilderment with which I navigated my first few weeks of insti life. And naturally, one of the biggest conundrums we faced back then was choosing one of NSO, NSS, NCC, or NCA. This article hopes to throw some light on the specifics of each so as to aid freshies in their decision-making process.
+
+NCC (National Cadet Corps):
+
+This is the most underrated of the available options owing to the various myths that cast it in a strict, cruel, and monotonous light. No surprise there, since NCC is known for its parade drills and working hours that will make you wake up at dawn-break. But the battalion in insti happens to be an air force tech squadron, which means that there is less focus on drill and more on other technical and practical aspects of flying. In fact, drill practices are held only for stretches of about a week right before the Independence and Republic Day celebrations. In the rest of the meetings that are held every week, the cadets are given fitness training and might indulge in a spectrum of activities from learning to fly drones to even watching movies about flying. These sessions usually last a couple of hours starting at 6 in the morning.
+
+NSS (National Service Scheme):
+
+NSS is an excellent opportunity for students to step out of the comfort of their everyday life and engage in social service. With its wide range of projects targeting different sections of the population, NSS has over the years made significant contributions to the society. Its projects can be broadly classified into teaching projects, awareness projects, and content generation projects.
+
+NSO (National Sports Organization):
+
+NSO is the most popular option among students. No surprise there. Don’t we all love a good game? NSO offers the option of choosing from a variety of sports spanning cricket, athletics, frisbee, yoga, weightlifting, aquatics to name a few. The entire list can be found in the smail regarding the same.
+
+NCA (National Cultural Appreciation):
+
+This is the newest addition to the list, having started the year before. This is a great opportunity for students to hone their skill in a cultural activity of their choice or even learn an entirely new skill. Roughly 100-120 selections are in place.
+
+Now that you have a fairly good idea of each of NSO, NCC, NSS, and NCA, I would like to take this opportunity to address another question frequently asked by most freshies.
+
+You don’t have to worry about being left without being selected in anything. There are exactly as many vacancies as there are freshmen.
+
+So, at the end, all those students who’ve been selected in more than one of NSO, NCC, etc. will have to choose exactly one and drop the rest. The vacancies will be filled by those students who haven’t gotten selected in anything yet.
+
+At the end of the day, no matter what you take, just remember to slay it.
+"""
