@@ -301,7 +301,7 @@ TECHNICAL SOCIETY, IIT MADRAS
 Sudha and Shankar Innovation Hub, Indian Institute of Technology, Madras.
 
 CONTACT DETAILS:
-Heads of Technical society:
+Heads:
 Prabhat - +91 91082 59723
 Anouksha - +91 94978 44857
 techsoc@smail.iitm.ac.in
@@ -565,4 +565,728 @@ You don’t have to worry about being left without being selected in anything. T
 So, at the end, all those students who’ve been selected in more than one of NSO, NCC, etc. will have to choose exactly one and drop the rest. The vacancies will be filled by those students who haven’t gotten selected in anything yet.
 
 At the end of the day, no matter what you take, just remember to slay it.
+"""
+
+
+MA1101 = """
+
+This is a 1st year course common for all the students across the btech curriculum. The course gradings are typically RG, this course takes place in a series of sections with all the 1st year students divided in different sections. This course along with the others play a significant role in the decision of opting for a branch change. Usually the course grading percentage is 25% quiz 1, 25% quiz 2, and 50% endsems with more importance laid on the in class and homework tutorials. Class usually takes place in RMN or CRC but it varies with the course instructor. Course instructors are different in different sections. Mainly the course instructors for this course are:    Jayanthan A V
+ asingh1 Arindama Singh
+ balaji51 Balaji R
+ dipramit1 Dipramit Majumdar
+ kmahalingam1 Kalpana M
+ radharam1 Radha R
+ rameshk1 Ramesh Kasilingam
+ Sarang Sane
+ sjroy1 Satyajit Roy
+ bsriram1 Sriram B
+ suhas1 Suhas Jaykumar Pandit
+ tevbal1 Venkata Balaji T E
+
+The course details are:
+Functions of two and three variables: Regions in plane, level curves and level surfaces, limit, continuity, partial derivatives, directional derivatives and gradient, normal to level curves and tangents, extreme values, Lagrange multipliers, double integral and iterated integral, volume of solids of revolution, approximation of volume, triple integral, change of variables, multiple integrals in cylindrical and spherical coordinates. Vector calculus: Gradient, Divergence, Curl, Line integral, conservative fields, Green's theorem, surface area of solids of revolution, surface area, surface integral, Triple integrals and Gauss Divergence theorem, Stokes' theorem.
+
+Textbook for references are: 
+1.E. Kreyszig, Advanced Engineering Mathematics, 10th Ed., John Willey & Sons, 2010.
+2. N. Piskunov, Differential and Integral Calculus Vol. 1-2, Mir Publishers, 1974.
+3. G. Strang,Calculus, Wellesley-Cambridge Press, 2010.
+4. J.E. Marsden, A.J. Tromba, A. Weinstein, Basic Multivariable Calculus, Springer Verlag, 1993.
+5. G.B. Thomas Jr., M.D. Weir and J.R. Hass, Thomas Calculus, Pearson Education, 2009
+
+"""
+
+Physics1 = """
+This is a 1st year course common for all the students across the btech curriculum. The course gradings are typically RG, this course takes place in a series of sections with all the 1st year students divided in different sections. This course along with the others play a significant role in the decision of opting for a branch change. Usually the course grading percentage is 20 % quiz 1, 20% quiz 2, 10% tutorials and 50 % endsems but it may also depend on the professors. Classes have been happening in RMN block only and this course is usually offered in the A slot. 
+Generally this course is taken up by prof Aravind G., 
+
+Course format: The tentative format of the end-of-semester exam last year was as follows. The exam  contained 4 true/false questions (for 1 mark each), 4 multiple choice questions with one or more correct options (for 2 marks each), 8 fill in the blanks (for 1 mark each), five questions involving moderate calculations (for 3 marks each) and three question involving detailed calculations or plotting (for 5 marks
+each), adding to a total of 50 marks.
+
+"""
+
+EngineeringMechanics= """
+
+Course Content:
+Equilibrium of rigid bodies, free body diagram, Analysis of beams and trusses, Equilibrium of
+continuous systems -derivation of relation between load, shear force and bending moment.
+Energy conservation in rigid bodies -potential energy and elastic energy. Virtual work in
+multibody assemblies. Coulomb Friction and Belt friction.
+Lumped mass models in Dynamics -Particle motion in cylindrical coordinates, engineering
+applications of central force motion. Kinetics of rigid bodies -translation and rotation motion of
+a rigid body, relative motion with translating and rotating axes and Coriolis acceleration.
+Kinematics of rigid bodies -3-D properties of sections, angular momentum of rigid bodies and
+energy relations for rigid bodies. Mechanical vibrations of single degree of freedom systems -
+free vibration of rigid bodies, general equations of motion and response to forced sinusoidal
+loading.
+
+Text Book:
+Meriam J.L and Kraige L.G., Engineering Mechanics, Volume I - statics, Volume II - dynamics,
+John Wiley & Sons, New York
+
+This course usually takes place in the 2nd semester, course grading is relatively RG and this course takes place in CRC mainly. Offered in B slot this course is taught by many professors like Abhijit Chaudhari, Anubhav Roy, Prasad Patnaik, Faruq Ali Siddhique. The endsem is generally of 40 %, with quiz 1 and quiz 2 comprising of 20% each and tutorials(in class) comprising of another 20%. The course usually revolves around the concepts of classicial mechanics.
+"""
+
+CS1100_IntroductiontoProgramming= """
+
+Syllabus:
+0. Introduction to Computing, including basics of Computer
+Organization (CPU, ALU, etc.), Machine Lang/Assembly/High-level
+languages, and program compilation steps.
+
+1. Data representation (Decimal, Binary) of signed and unsigned
+integers (Sign-Magnitude, One's and Twoâ€™s complement), floating point
+numbers.
+
+2. Variables and Constants, Assignment Statements, Operators --
+Arithmetic, Logical, Relational, operator precedence).
+
+3. Input/output: Format-strings for printf and scanf.
+
+4. Conditional statements: if-else, switch-case
+
+5. Repetitive statements: while, do-while and for loops
+
+6. Arrays: one dimensional and two-dimensional arrays
+
+7. Char data type, Strings and String Manipulation functions
+
+8. Functions and Modular Programming 
+
+9. Recursive Functions
+
+10. Structures
+
+11. Pointers
+
+12. Searching algorithms: Linear and Binary search, where elements are
+stored in an array.
+
+13. Sorting algorithms: Selection and Insertion Sort, where elements
+are stored in an array.
+
+This course is offered in 2nd semester to majorly all the departments except CS. ED and BT. This course is offered in the E slot and usually follows an AG grading system. This course usually have quiz 1 carrying 20%, quiz 2 carrying 20 % , the programming lab (replit) where you are given coding assignments and you have to submit assignments each week (30%) and endsems are 30%. The questions in quizzes and endsems are mainly objective and fill in the blanks. This course is often taken up by a group of 5-6 professors with each professor having different section of students. Professors are: Shweta Agarwal, Ananth Krishnan, Harish Gurukumar
+
+
+References:
+Paul Deitel and Harvey Deitel. C: How to Program.
+V. Rajaraman: Computer Programming in C.
+R. G. Dromey: How to Solve It By Computer?
+Kernighan and Ritchie: The C Programming Language.
+"""
+
+MA1102= """
+
+Course name: Series and materices
+Course Details:
+Series: Sequences of real numbers, Series, ratio and root test, improper integral, integral test, alternating series, absolute and conditional convergence, power series, radius and interval of convergence of power series, term by term differentiation and integration of power series, Taylor?s formulas, Taylor series, periodic functions and Fourier series, convergence of Fourier series, functions of any period, even and odd functions, half-range expansions.
+Matrices: Matrix operations, special types of matrices, matrices as linear transformations, linear independence, basis and dimension, rank of a matrix, nullity of a matrix, elementary operations, inverse of a matrix, orthogonalization, determinant, existence- uniqueness of solutions of a linear system, Gaussian elimination, Gauss-Jordan elimination, Eigenvalues, eigenvectors, eigenvalues of special types of matrices, similarity of matrices, basis of eigenvectors, diagonalization.
+
+Course References:
+Texts:
+1. G.B. Thomas Jr., M.D. Weir and J.R. Hass, Thomas Calculus, Pearson Education, 2009.
+2. E. Kreyszig, Advanced Engineering Mathematics, 10th Ed., John Willey & Sons, 2010.
+REFERENCES:
+1. J. Hefferon, Linear Algebra, http://joshua.smcvt.edu/linearalgebra, 2014.
+2. S. Lang, Introduction to Linear Algebra, 2nd Ed., Springer-Verlag, 1986.
+3. M.T. Nair, Calculus of One Variable, Ane Books, 2014.
+4. N. Piskunov, Differential and Integral Calculus Vol. 1-2, Mir Publishers, 1974.
+5. G. Strang, Linear Algebra and its Applications, Cengage Learning, 4th Ed., 2006.
+
+This course is offered in the 2nd semester to all the btech students at IIT Madras, usually happens in RMN block and is offered in the C slot. This course follows a relative grading. Course is broken down into 2 quizzes and 1 endsemm with each quiz having 25% weightage and endsems having 50% weightage. This course breakdown is subjected to change depending upon the professors. Professors who usually take this course are Arindama Singh, Jayanthan AV, Kulkarni SH, Neelesh S Upadhaye and Jaikrishnan.
+"""
+
+ME1100= """
+
+Course name: Thermodynamics
+
+Prof who usually take this course are :
+Arvind Pattamatta
+Babu Viswanathan
+Venkatarathnam G
+Pallab Sinha Mahapatra
+Prof. Sundararajan
+Dr. Vishal V. R. Nandigana
+Prof. V. Raghavan
+Dhiman Chatterjee
+
+Offered in the 2nd semester for Mechanical , chemical, Metallurgy departments. Claases happen in RMN 201 with the course having a relative grading. The course has 2 quizzes and 1 endsem with 25-25-50 weightage.
+This is a first-level course in thermodynamics, aimed at UG first year students. The syllabus closely follows the AICTE model syllabus in thermodynamics. At the end of the course, students would be expected to be able to demonstrate an understanding of the laws of thermodynamics and solve problems involving heat and work interactions, with various working substances.
+"""
+
+PH1020 = """
+
+Course name: Physics II
+
+Syllabus:
+
+Unit 1-The electromagnetic force as a fundamental force, the electrostatic field as a conservative vector field: basic features, Principle of superposition, discrete and continuous charge distributions. The concept offiel
+d lines and flux, Gauss’s law, Examples of finding the field using Gauss’s law.
+Unit 2-The electrostatic potential, differential form of Gauss's Law, Poisson's equation, Electrostatic energy of acharge distribution, Equilibrium in electrostatics
+Unit 3-Charged surfaces, conductors and capacitance, capacitors. The idea of multi pole expansion, Monopoleand dipole moments, contributions to potential.
+Unit 4- Dielectric media: effect of an electric field on a dielectric, electric displacement vector, polarizationvector, Linear-Isotropic-Homogeneous media, Boundary conditions, Electric field in a dielectric, energydensity.
+Unit 5-Magnetostatics: Magnetic induction, force on a current carrying conductor in a magnetic field, Biot-Savart’s law. Ampere's Law, Magnetic field due to a current.
+Unit 6-Electrodynamics: Force on a charged particle in electromagnetic fields. Time-varying fields. Faraday'slaw of electromagnetic induction. Self and mutual inductance. Maxwell's equations in free space.
+Unit 7-Electric displacement vector, dielectric Susceptibility. Boundary conditions. Magnetic induction,Magnetization. Energy density in a magnetic field. Magnetic permeability and susceptibility.
+Unit 8- Maxwell’s equations in a dielectric medium. Electromagnetic waves, Monochromatic plane wave propagation in free space. Wave propagation in dielectric media, energy density. Electromagnetic energydensity, Poynting vector.
+
+This course is offered in the 2nd semester common to all btech students. Course grading is relative and this course is taken up by a group of professors some of them being Ashwin Joy, Aravind G, Basudev Roy, Dawood Kothawala and Dilip Kumar Satapathy. It generally is alloted in the A slot of the semester with midsem having 30 % marks, tutorials containing 20% marks and rest 50% marks are for endsems. 
+
+Some reference books for these are:
+Introduction to Electrodynamics" by David J. Griffiths
+Electricity and Magnetism" by Edward M. Purcell
+"""
+
+EE1100 ="""
+
+Course name: Basic electrical engineering
+
+This course is offered in the third semester of chemical, mechanical, electrical, computer science and civil department. This course usually takes place in CRC 101, 102, 103 and is alloted in the E slot of the semester. The course is broken down into- 3 mini-quizzes of 5 marks each; Quiz1 : 15 marks; Quiz2: 20 marks; Final: 50 marks
+
+Books to refer:  Electrical Circuit Theory and Technology, John Bird, Elsevier, 2011 [Text book for topics 1 to 4.  Essentials of Electrical and Computer Engineering, Kerns & Irwin, Pearson, 2004. 
+
+Course content: Introduction + Topic 1 :- Basics and definitions: definition of charge, voltage, current, power, energy, resistor, Ohm's law, ideal sources, internal resistance of voltage and current sources
+
+Topic 2 :- Circuit laws and solving for unknowns: description & derivation of Kirchoff's laws, series and parallel connections, analysis of circuits using Nodal analysis technique usage of the principle of linearity and superposition to solve when multiple sources are present.
+
+Topic 3 :- Dynamic circuit components L & C:derivation of the relationship between current
+and voltage in capacitors(C) and inductors(L), power in L & C, combination of R & L , R & C, numerical & graphical analysis of transients with DC sources, combination of R, L & C in
+circuits.
+
+Topic 4 :- Single phase AC circuits :
+Introduction to AC signals and sources, description of AC signals using magnitude, frequency and phase, distinguishing between peak, average and RMS values, definition of power in AC circuits, derivation of properties of R, L and C with AC signals, introduction to Impedance(Z), Differentiate between DC and steady state, calculation of power in AC systems, differentiating between active, reactive and apparent power, introduction to power factor, usage of phasors to represent, manipulate and calculate circuit quantities like voltage,current, impedance, and power.
+
+Topic 5 :- How does the wireline telephone system work?
+Local loop, analog to digital conversion, sampling of speech, compression of speech, echocontrol, blocking and non-blocking switches, application of Erlang-B formula to voice
+networks, and how to send data thro the (voice-based) telephone network
+
+Topic 6 :- Digital communications
+Analog communications vs Digital communication, examples from source compression, errorcontrol coding, mapping bits to waveforms (transmit modulation), and recovering bits from noise corrupted waveforms (demodulation and detection at the receiver)
+
+Topic 7 :- Packet Switching – advantage over circuit switching, how coding and packet
+repetition can ensure “error-free” data transport over the internet
+
+Topic 8:- Wireless transmission – transmit power, path loss, receiver sensitivity, and link
+budget, point-to-point wireless links, wireless broadcasting.
+
+Topic 9 (if time permits):- Mobile Cellular networks – evolution from voice-only (2G) to
+mainly data applications 
+
+Course intructors for this course usually are: Prof Ananth Krishnan, Prof Anbarasu, Prof Amitava Das Gupta, Prof Abhishek Sinha
+"""
+
+CH1010= """
+
+Course Name: Introduction to chemical engineering
+
+Course description:This course is intended to provide an overview of the scope of Chemical Engineering to I year B.Tech. students by having academic and industrial practitioners give seminars reflecting their individualarea of interest. Assignments are given to reinforce the learning.
+
+Course content: Various topics of relevance to chemical engineering
+ This course is usually offered in the C slot or D slot of the 2nd semester to btech chemical students. Course grading is RG and the course percentage marks vary from professor to professor. Last year the prof was Abhijeet Deshpande and the course grading he followed was 10% midsem, 20 % tutorials, 40% project ,30% endsem.
+"""
+
+CH1020= """
+Course name: Principles and calculations in chemical engineering.
+Course description:The main objectives of this course are to write material and energy balances for various
+chemical process units and combination of units. It is an introductory course that serves as an important
+precursor to all other Chemical Engg courses
+
+Course content:Descriptions of processes and analysis of process variables units and measurements. Atomic
+and species based material balance equations for single and multiple units, for both non-reactive and reactive
+systems. Vapor liquid equilibrium based calculations. Analysis of separation processes including distillation,
+dissolution, liquid-liquid extraction, and absorption of solid surfaces. Psychrometry. Energy balance based
+calculations for nonreactive and reactive processes.
+
+Textbooks: ELEMENTARY PRINCIPLES OF CHEMICAL PROCESSES BY RICHARD M FELDER AND
+RONALD W ROUSSEAU
+
+This course is offered in the 2nd semester of the btech curriculum to chemical students under professional course. This course is usually taken up by prof Preeti Aghlayam but since she is not offshore to IIT Madras's foreign campus it is now taken up by Prof Susy Varughese. This course had been having a fixed percentage of marks divided quiz 1: 30% quiz 2: 30% and endmsems: 40% but now the marks distribution might change.
+"""
+
+CH2010= """
+Course name: Chemical engineering thermodynamics
+
+Course discription:To learn to apply the principles of solution thermodynamics to predict phase and reaction equilibrium data which are relevant to chemical engineering.
+
+Course content: Module 1: Equation of state (EOS): intermolecular forces; van der Waals EOS, cubic EOS;
+virial EOS; compressibility charts; EOS for fluid mixtures. Module 2: The calculus of thermodynamics:
+fundamental property relations; Maxwell relations; calculation of properties using equation of states;
+departure functions. Module 3: Thermodynamics of mixtures: partial molar properties; Gibbs- Duhem
+equation; property change of mixing; fugacity and fugacity coefficients for vapor and liquid mixtures; activity
+and activity coefficients; excess properties; reference states. Module 4: Phase Equilibria: pure species:
+criteria for equilibrium, first order phase transitions, Clausius-Clapeyron equation, and latent heat; binary
+vapor liquid equilibria (VLE); Raoult’s law; liquid-liquid equilibrium (LLE); solid-liquid and solid-solid
+equlirium (SLE, SSE); multicomponent VLE. Module 5: Chemical Reaction Equilibria: – Chemical reactions
+and Gibbs free energy; Equilibrium constant K, Calculation of K from thermochemical data, Relationship
+between K and concentration of the reacting species, K for gas, liquid and solid phases, Analysis of multiple
+reactions. Module 6: Special Topics: – Adsorption isotherms, Thermodynamics of interfaces, Electrochemical
+reactions, Biochemical reactions, Relationship between classical and statistical thermodynamics.
+
+Text books:M. D. Koretsky, Engineering and Chemical Thermodynamics, 2nd Ed., Wiley, 2013...
+J. M. Smith, H. V. Van Ness and M. M. Abbott, Introduction to Chemical Engineering
+Thermodynamics, 6th Ed., McGraw Hill, 2005....N. de Nevers, Physical and Chemical Equilibrium for Chemical Engineers, 2nd Ed., Wiley, 2012... J. W. Tester and M. Modell, Thermodynamics and Its Applications, 3rd Ed., Prentice Hall, 1997
+
+This course is offered by Prof Rajnish Kumar. The course grading is relative and the course carrying a fixed marks distribution throughout 20% quiz 1 20% quiz 2 10% attendance 10%project 40% endsems.
+"""
+
+CH2012= """
+Course name: Continuum Mechanics and Transport Phenomena
+Description: • Understand the fundamental phenomena governing chemical engineering processes • Relate
+the laws of physics to chemical engineering through transport phenomena • Predict/simulate fluid
+flow/energy flow/mass flow behaviour of equipments • Derivation of conservation equations following a
+general method • Application of the conservation equations • Relate fluid and solid mechanics.
+
+Indian Institue of Technology 2
+CourseNo:CH2012
+CourseName:Continuum Mechanics & Transport Phenomena
+Credit Distribution: C: L: T: P: E: O: TH:
+Course Type:
+Description: • Understand the fundamental phenomena governing chemical engineering processes • Relate
+the laws of physics to chemical engineering through transport phenomena • Predict/simulate fluid
+flow/energy flow/mass flow behaviour of equipments • Derivation of conservation equations following a
+general method • Application of the conservation equations • Relate fluid and solid mechanics
+CourseContent: 1. Fluid kinematics a. Eulerian vs. Lagrangian b. Material derivative c. Flow visualization –
+stream, path and streak lines d. System vs. control volume e. Reynolds transport theorem 2. Total mass
+balance a. Integral balance and applications b. Differential balance and applications 3. Linear momentum
+balance a. Integral balance and applications b. Differential balance c. Stress i. Traction vector, stress at a
+point, stress element, stress tensor ii. Cauchy’s formula iii. Equality of cross shears iv. Fluids at rest d. Strain
+i. Types and measures of deformation ii. Displacement field, displacement gradient – 1D, 3D iii. Relationship
+between strain and displacement field iv. Displacement gradient tensor = strain tensor + rotation tensor v.
+Fluids vs. solids and strain rate tensor e. Constitutive equation i. Hooke’s law for homogeneous, isotropic,
+linearly elastic solid ii. Strain in terms of stress and vice versa (Lame’s equation) iii. Relationship between the
+constants iv. Fluids at rest, Newton’s law of viscosity f. Navier-Stokes equations g. Applications i. Pascals’s
+law and applications ii. Exact solutions – Couette flow and Poiseuille flow Transport Phenomena 1. Momentum
+transport a. Shear stress as momentum flux, change in sign convention b. Linear momentum balance equation
+revisited and Navier Stokes equation c. Shell momentum balance – pipe flow – Hagen Poiseuille equation 2.
+Energy transport a. Integral energy balance and applications b. Fourier’s law c. Differential energy balance -
+Total energy, PE or work by g, KE + IE, KE, IE, H, T d. Applications of differential energy balance and/or shell
+balance i. Heat transfer through composite walls ii. Heat conduction with electric heat source – cylindrical
+coordinates 3. Mass transport a. Integral component mass balance and applications (batch reactor and CSTR)
+b. Fick’s law c. Total flux = Diffusion flux + Convection flux, Different average velocities d. Differential
+component mass balance e. Applications of differential component mass balance and/or shell balance i.
+Diffusion through stagnant film ii. Diffusion with homogeneous reaction iii. Catalytic packed bed reactor-
+External film diffusion controlled 4. Transport properties (overview) a. Measurement, effect of T and P, prediction
+
+TextBooks:Fluid Mechanics Cengel, Y. A. and Cimbala, J. M., Fluid Mechanics : Fundamentals and
+Applications, Mc Graw Hill, 2010 Solid Mechanics Parnes, R, Solid Mechanics in Engineering, John Wiley,
+2001 Transport Phenomena Welty,J., Wicks, C. E., Rorrer, G. L. and Wilson, R. E., Fundamentals of
+Momentum, Heat and Mass Transfer, 5th Edition, John Wiley, 2008
+
+This course is offered by Prof Abhijeet Deshpande. This course acts as a foundation for all the chemical engineering students with classes taking place in CRC 101. The marks distribution are 10% tutorials, 20% in class assignments, quiz 1 and quiz 2 with 15 % marks each and 40 % endsems. This course is often offered in B slot.
+"""
+
+CH2014= """
+CourseName:Fundamentals of Heat and Mass Transfer
+
+Description:This course will enable students to understand the basic concepts and principles of Heat and
+Mass Transfer. The course will highlight the analogies in the molecular and convective transport of heat and
+mass, thereby providing a unifying framework for appreciating transport phenomena principles. It also
+develops the necessary background that will prepare the student to apply the heat and mass transfer concepts
+in the design of industrial heat exchanger and separation processes equipment.
+
+CourseContent:1. Illustrations of conductive and convective transport: Shell balance approach illustrating
+Fourier’s and Fick’s laws, Mass transfer in a falling film, Solid dissolution, Conduction in composite
+rectangular and cylindrical solids, Critical thickness of insulation, Heat transfer in fins, Mass transfer and
+chemical reaction 2. Concept of transport coefficients: Concept of equilibrium, Concept of film transfer
+coefficients, Overall transfer coefficients, F and k type of mass transfer coefficients, Analogy between heat
+and mass transfer3. Prediction of Convective Heat and Mass Transfer Coefficients – Dimensional Analysis,
+standard correlations in natural and forced convection, Thermal and concentration boundary layer theories4.
+Turbulent heat and mass transfer5. Principles of Discrete and Differential Separations: Equilibrium stage,
+Cocurrent, crosscurrent and countercurrent staged operation, Kremser’s Equations6. Introduction Boiling and
+Condensation: Pool and flow boiling, Filmwise and dropwise condensation
+
+TextBooks:1. Ozisik, M. N. : Heat Transfer – A Basic Approach, Mc Graw Hill, New York, 1985.2. Treybal, R.
+E. : “Mass transfer Operations”, 3rd ed., MCGraw Hill, New York, 1980.3. Seader, J.D., E. J. Henley, and D. K.
+Roper : “Separation Process Principles – chemical and Biochemical Operations”, 3rd ed., John Wiley, 2011.
+
+This course is offered by Prof Renganathan and it follows Relative grading. Offered in the E slot of the 4th semester to chemical engineering students the marks are broken down to 25% quiz 1, 25% quiz 2 and 50% endsems. This course takes place in MSB 344 mostly and the content for the midsems usually comes from the assignments which the professors uploads on the moodle.
+"""
+
+CH2015= """
+
+Course name: Fluid and particle mechanics
+
+Description:This course introduces the concepts of fluid and particle mechanics and demonstrates their applications.
+
+CourseContent:Review of basic concepts of fluid mechanics: fluids and properties of fluids; stress,
+deformation and kinematics of fluid motion; Reynolds transport theorem; continuity equation; Navier-Stokes
+equations , Reynolds number ,Hydrostatics as a special case of NS with no flow Exact solutions of Navier-
+Stokes equations: Plane Couette flow, Taylor-Couette Flow; Poiseuille flow; Unsteady (Stokes) flows Ideal
+fluid flow: Bernoulli's equation; Applications of Bernoulli’s equations; Transport and metering of fluids:
+Friction factor; Orifice meter; Venturi meter; Pitot tube, Pumps, compressors, fans, blowers, valves; Design of
+pipelines Creeping flow: Low Reynolds number approximation; Flow over a sphere; drag coefficient; Terminal
+velocity of falling object Boundary layer flow: High Reynolds number approximation; Flow over a flat plate;
+Integral solutions; Similarity solutions; Skin friction; Flow separation Turbulent flow: Characteristics of
+turbulent flows; Time-averaging; Turbulence closure problem; Mixing length model; Turbulent flow in pipes,
+over a flat plate and a sphere Dimensional Analysis and Modelling , Buckingham pi thoerem, Similarity
+analysis Particulate Phenomena: Shape analysis; Size analysis, characterisation Transport phenomena-
+diffusion, drag, phoresis Mechanical separations-- sedimentation, filtration; Particulate flows: Pneumatic and
+slurry transport, Flow through packed beds; Fluidization; Mixing, agitation and critical suspension
+
+TextBooks:1. Unit Operations of Chemical Engineering, Warren Lee McCabe, Julian Cleveland Smith, Peter
+Harriott, McGraw-Hill, 2014 2. Fluid Mechanics, Frank M. White, McGraw Hill, 2011
+
+This course is offered in the 4th semester of chemical department students. This course is offered in C slot and taken up by Prof Nagrajan with the marks distribution as 
+30% midsems 30 % assignments and 40% projects. This course takes place in CRC 101 according to the latest data.
+"""
+
+CH2061= """
+
+Course name: Computational Techniques
+
+Course description: Description:The course will introduce students to the art of numerical computation. The theory and derivation of computational techniques, error analysis, practical implementation and limitations will be covered in this course.
+
+CourseContent:Module 1: Error Analysis Accuracy; machine precision; Truncation and round-off errors
+Module 2: Linear Systems and Equations Eigenvalues; Gauss elimination, TDMA, LU decomposition; Gauss-
+Siedel method, over-relaxation; derivation/applications thereof Module 3: Numerical differentiation
+Differentiation, derivation of various formulae, round-off / truncation error tradeoff Module 4: Numerical
+integration Newton-cotes formulae, error analysis; Richardson’s method Module 5: Nonlinear Algebraic
+Equations Bracketing methods: bisection and regula-falsi; Open methods: Newton-Raphson, fixed point
+iteration, Secant; Error analysis for various methods; Root finding; Practical implementation Module 6:
+Regression Linear regression; regression in multiple variables; regression of some functional forms Module 7:
+Ordinary Differential Equations (ODE) Euler’s implicit and explicit methods; stability; Runge-Kutta methods
+and derivation; Adam Moulton and Predictor-Corrector methods; Multi-variable ODEs; Stiff Systems; ODE –
+Boundary Value Problems Module 8: Partial Differential Equations Classification of partial differential
+equations; finite difference technique; Method of lines.
+
+TextBooks:1. Gupta S.K. (1995) Numerical Methods for Engineers, New Age International 2. Chapra S.C.
+and Canale R.P., Numerical Methods for Engineers, 6th Ed., McGraw Hill 3. Fausett L.V. (2007) Applied
+Numerical Analysis Using MATLAB, 2nd Ed., Pearson Education
+
+This course is offered in the C slot of the 3rd semester in the btech curriculum of chemical engineering students. This course is taken up by Prof Raghuram Chetty and Tarak Patra. The marks distribution are 25% quiz 1 , 25% quiz 2 and 50% endsem.
+
+CH3010= """
+
+Course Name: Chemical Reaction engineering
+
+Course descrpition: The course is a required (core) course for undergraduates and will develop the concepts of
+chemical reactors & reaction kinetics. The course covers the determination of reaction rate information from
+batch reactor data, design and analysis of ideal flow reactors, catalytic reactions and reactors, non-ideal flow
+reactors, the concept of selectivity, and nonisothermal operating conditions. The course is one of the critical
+components of Chemical Engineering undergraduate education.
+
+CourseContent:Rate calculations & Ideal reactors Definition of rate of a chemical reaction, determination of
+the rate equation using various methods of analysis of batch reactor experimental data. Definition of ideal
+flow reactors, and design equations for batch, plug, mixed flow and recycle reactors. Classifcation of
+nonisothermal reactors (adiabatic and non-adiabatic), and analysis of stability. Multiple reactions
+Classification of multiple reactions as series, parallel, etc; incorporating multiple reactions in design
+equations, analysis of reactor level behaviors in terms of conversions and selectivities Residence time
+distribution & non-ideal reactors Definition of residence time distribution functions, determination of RTD
+from experimental data, derivation of RTD for ideal mixing. Models of non-ideal reactor incorporating RTD
+including axial dispersion, tanks-in-series, and compartment models. Catalytic reactions and reactors
+Classification of catalytic reactions as homogeneous and heterogenous, catalytic reaction mechanisms, LHHW
+rate forms. Analysis of external heat and mass transport effects on heterogeneous catalytic reactions.
+Definition of effectiveness factor and Thiele modulus, Effectiveness factor. Advanced reactors Design
+equations for packed and fluidized bed reactors, Shrinking core model, fluid-fluid reaction rate equations,
+design of gas-liquid (bubble) reactors Learning outcomes In this course, learners develop the skills required
+for analysis of chemical reactors and reactions. Non-ideal flow reactors, catalytic reactor systems, and
+advanced reactors are analysed at depth, in addition to multiple reactions and reaction mechanisms.
+
+TextBooks:1. O. Levenspiel, Chemical Reaction Engineering, 3rd Edn, John Wiley & Sons, 1999 2. H. S.
+Fogler, Elements of Chemical Reaction Engineering 4th Edn, Prentice Hall, 2005
+
+This course is offered by Prof Jithin Varghese in the 5th semester of chemical department btech curriculum. This course is offered in the B slot in MSB 354. The marks distribution are 15% quiz 1, 15% quiz2, 15% acadly weekly quizzes, 15% assignments and 40% endsem. This course has a relative RG grading system. The good thing about this course is that it is easy to score marks as the questions asked in the quiz are exact same of the questions done in class tutorials. Going to class is recommended and the professor is strict about attendance.
+"""
+
+CH3030="""
+
+Course Name: Applications of mass transfer
+
+Description:In chemical engineering practice, several mass transfer operations are involved. This course is
+aimed at teaching the use of principles of mass transfer in design of these operations.
+
+CourseContent:Stage wise concept: Material balance, co-current, cross current and counter current stages
+Gas Absorption and Extraction: Material Balance, Minimum solvent requirement, Kremsers Equation, Use of
+efficiencies, number of transfer units (NTU) and height of transfer units (HTU) concepts Distillation: Raoult's
+law, relative volatility, ideal and non ideal systems, flash, batch and counter-current distillation, McCabe
+Thiele method, Packed tower distillation, Height equivalent to a theoretical plate (HETP) concepts Liquid-
+Liquid Extraction: Single and Multistage cross- and counter-current operations. Graphical methods.
+Adsorption - Stage-wise concepts, differential adsorption, concept of breakthrough curves, Ion Exchange,
+Chromatography, Extraction / Leaching Humidification / Dehumidification: Use of psychrometric charts,
+adiabatic saturation curves, simultaneous heat and mass transfer. Adiabatic and non adiabatic operations –
+design. Drying: Simultaneous heat and mass transfer. Batch Drying. Design of continuous drying operations.
+Membrane Separations: Calculation of membrane flux, mechanisms of membrane transport, applications of
+membrane separations Simulation of Mass Transfer Applications.
+
+extBooks:Mass Transfer Operations, RE Treybal, 3rd Edition, McGraw Hill, 1980. Separation process
+principles: Chemical and biochemical operations [3rd ed.], J. D. Seader, Ernest J. Henley and D. Keith Roper
+
+This course is taken up by Prof Kannan A. offered in the C slot of the 5th semester of btech chemical department curriculum. The grading system is typically RG. The marks are divided into 10% quiz 1, 10% quiz 2, 20% weekly tutorials, 60% endsemester exams. It takes place in MSB 354.
+"""
+
+CH3050= """
+
+CourseName:Process Dynamics and Contro
+
+Description:The main objective of this course is to teach the fundamental aspects of process dynamics and
+control, which includes developing dynamic models of processes, control strategies for linear time-invariant
+systems and instrumentation aspects. At the end of this course, the student would be able to: (i) develop
+transfer function (input-output) and state-space models for linear dynamical processes, (ii) characterize the
+dynamics and stability of processes based on mathematical analysis (iii) understand the principles of feedback
+and feedforward controllers (iv) design PID controllers using different tuning rules (v) carry out a frequency-
+domain analysis of control loop systems (vi) understand the philosophy of and design model-predictive
+controllers and (vii) assess performance of control loop systems. The course is conducted on the integrated
+theory-with-practice paradigm, wherein the classroom lectures are seamless integration of theory with live
+computational / simulation demonstrations of the concepts. Students are provided with the opportunity to
+reinforce and implement the course concepts in academic and real-life problems through assignments. The
+majority of this course is concerned with development, analysis and use of input-output (transfer function)
+models for control system design. MATLAB (a registered trademark), and its associated dynamic simulator
+Simulink (a registered trademark) provides the required software support for this course.
+
+CourseContent:Motivation: Overview of control, modelling and control principles; course outline. System-
+theoretic models:First-principles models, linearization, linear time-invariant (LTI) systems, Laplace
+transforms, state-space and transfer function models. Stability analysis: Notions of stability for LTI systems;
+asymptotic and bounded-input, bounded-output stability. Response-based descriptions: Impulse-, step- and
+frequency-response models. Process characterization: Concepts of gain, time-constants and time-delays, first-
+and second-order systems, effects of zero and pole locations on process characteristics. Empirical models:
+Estimating response models from input-output data. Feedback control: Fundamentals, control
+instrumentation, closed-loop system analysis, overview of control system design. Stability analysis of closed-
+loop systems:Root locus techniques, Bode’s stability result, Nyquist diagrams PID controllers: Characteristics
+of PID controllers, design, performance criteria, stan- dard tuning rules, model-based tuning. Uncertainties in
+control design: Gain and phase margins, closed-loop characterization, small gain theorem. Two case studies in
+complete analysis of process dynamics and design of control system. Instrumentation: Sensors, actuators,
+valve characteristics Model predictive control: Basics and foundations of predictive control, design of MPC,
+case study. Performance assessment: Control loop performance monitoring - overview, minimum variance
+benchmark, case study. Selected topics: Feedforward control, ratio control, cascade control. In addition: Use
+of MATLAB / SIMULINK for analysis of process dynamics and design of controllers.
+
+TextBooks:D.E. Seborg, T.E. Edgar, D.A. Mellichamp (2016). Process Dynamics and Control, Wiley India Pvt.
+Ltd., Fourth Edition
+"""
+
+CH3052="""
+
+CourseName:Material Science for Chemical Engineers
+
+Description:The objective of this core course is to provide essential concepts in material science with an
+emphasis on particulate solids, their behavior and processing in various chemical engineering operations.
+
+CourseContent:Metallic and ceramic materials - metallic and ionic bonds Atomic structure of solids,
+Crystalline and amorphous materials, crystalline structure, unit cell and crystal faces Materials of
+construction Corrosion resistance, fatigue, long term properties - polymers, metals and ceramics Materials
+processing Crystallization, sintering, calcination, sol-gel methods Catalytic Materials Types of catalysts,
+structure, properties, porous catalysts, pore diffusion, adsorption, adsorption isotherms Polymeric Materials
+Polymer melts and solutions behaviour - macromolecules Polymer processing Processing of Particulate solids
+Fracture mechanics, attrition, breakage, size reduction, size enlargement Colloidal and nano-particle systems
+Definition, properties, types and classification Forces of interaction - van der Waals and electrostatic
+interactions Aggregation, Settling of aggregates Smart materials Electrical, electronic and optical properties
+of materials. Piezoelectric, actuators, shape memory alloys and polymers, electro and magneto-rheological
+materials, carbon nanotube (CNT), fullerene, graphene, 3D printing Materials Design Mini projects on design
+of products based chemical engineering and material science concepts: Design of coffee-cup, Formulation of
+paints and ink, Containers for encapsulation of drugs, aroma any active compounds, Coatings for different
+applications, Development of catalysts/supports, Fabrication of fibers, Materials from waste and other novel
+materials.
+
+
+
+TextBooks:1. Materials Science and Engineering an Introduction. William D. Callister, Jr. Fifth Edition, John
+Wiley and Sons, Inc. 1999. 2. Unit Operations of Chemical Engineering. McCabe W., J. Smith, and P.
+Harriott,:, 7th Ed., McGraw-Hill, New York, 2004. 3. Principles of colloid and surface chemistry. P.C Hiemenz,
+R. Rajagopalan. M.Dekker, New York, 1997
+"""
+
+CE2310="""
+
+Course name: Mechanics of Material
+
+Description:1. To enable learning of the stress and displacement in deformable bodies subjected to various loads. 2. To find whether the body would fail under a given loading condition. 
+
+
+CourseContent:1. Mathematical preliminaries: Linear algebra, vectors, matrix. 2. Kinetics: Concepts of force, traction, stress; relation between force and components of stress, transformation of stress components due to change in coordinate system – Mohr’s circle, extremum normal stress and shear stress, octahedral stress, plane stress, pure shear – deviatoric stress. 3. Kinematics: Concepts of displacement, deformation, relative displacement, stretch, strain; relation between displacement and components of linearized strain; transformation of linearized strain components due to change in coordinate system, principal strain and its meaning, plane strain. 4. Basic equations: Equilibrium equations in Cartesian and cylindrical polar coordinates; Constitutive relations, elasticity; Hooke’s law, material modulus and their relations, isotropy; strain energy, energy theorems. 5. Boundary value problems: Displacement formulation for linearized elasticity; Axial element – columns, trusses, cables; Bending moment and shear force diagrams for statically determinate beams; Bending action – Euler Bernoulli assumption, symmetrical and unsymmetrical bending, composite sections, deflections; Twisting action – Torsion of circular shafts, thin walled closed sections, Empirical expressions for thin open sections, stress distribution in cylinders and spheres – thick and thin walled. 6. Yield and failure theories: Ductile and brittle failure; Yield condition, Tresca and von Mises criteria; Rankine failure theory, Mohr’s failure theory; Fatigue failure, S-N curve. 7. Structural Instability: Behavior of ideal column – Euler theory; behaviour of real columns, effect of imperfections. 
+
+
+TextBooks:1. Beer F.P., Johnson E.R., and DeWolf, J.T., Mechanics of Materials, Tata McGraw-Hill, 2004. 2. Popov E.P., Engineering Mechanics of Solids, Prentice Hall of India Private Limited, 2004. 
+"""
+
+CE2060= """
+
+Course Name: Geotechnical engineering
+
+Description:Objectives: To introduce the fundamentals of soil mechanics and the importance of engineering geology to civil engineering. Learning outcome: 1. Students should be able to identify and classify different type of soils. 2. Students should understand significance of different engineering properties of soils. 3. Students should be able to explain the ideal geological setting for major civil engineering projects.
+
+CourseContent:General geology; Mineralogy; Physical geology; Structural geology; Engineering geology; Physico-mechanical properties of rock; Origin and formation of soils; Water-air void relationship; Soil grain and aggregate properties; Index properties including consistency limits and grain size distribution; Identification and classification of soils; Clay mineralogy; Permeability of soils; Effective stress law; Seepage forces and quick sand phenomenon; Seepage through soil including flow net diagrams; Capillarity of soils; Stress distribution in soils; Compaction of soils; Consolidation of soils; Consolidation theory; Stress history and settlement in soils.
+
+TextBooks:1. Ranjan, G. and Rao, A.S.R. (2016). Basic and Applied Soil Mechanics, New Age International Publishers, New Delhi. 2. Singh. P. (1995). A Textbook of Engineering and General Geology, S. K. Kataria and Sons, New Delhi, India.
+
+This course is important in civil department
+"""
+
+
+CE3015 = """
+
+Course name: Highway engineering
+
+Description:To provide fundamental knowledge in highway engineering so that the students can understand and solve problems with a focus on geometric and pavement design
+
+CourseContent:Introduction to transportation systems, characteristics Highway engineering: classification of roads, highway planning; Road - vehicle performance; Geometric design – road cross-section, sight distance and applications, superelevation, horizontal and vertical alignment, integration of horizontal and vertical alignment Types of pavements; bituminous and concrete pavements; Materials for use in highway construction and their characterization; Pavement design- design elements, traffic and stress analysis methods; Bituminous pavement design - Introduction to layered elastic theories, load equivalency factors, IRC method of pavement design; Concrete pavement design - introduction to Winkler foundation, stress analysis, influence of traffic and temperature, IRC method of pavement design - Pavement failures and introduction to pavement construction and maintenance
+
+TextBooks:Karen K. Dixon and Paul H. Wright, Highway Engineering, Wiley, Seventh edition, 2009 C. Jotin Khisty, and B. Kent Lall, Transportation Engineering, Pearson, Third edition, 2017 Martin Rogers, and Bernard Enright, Highway Engineering, Wiley, Third edition, 2016 L. R. Kadiyali, Transportation Engineering, Khanna Publishers, First edition, 2016 Fred L. Mannering, Walter P. Kilareski, and Scott S. Washburn, Principles of Highway Engineering and Traffic Analysis, Wiley, Third edition, 2007
+
+This course is important in civil department
+"""
+
+CE3060 = """
+
+Course name: Basic design of reinforced concrete structures 
+
+Description:To enable learning of - Theories on mechanical behaviour of reinforced concrete (RC). - Design approaches of RC members subject to compression, bending, shear, torsion and their combinations. 
+
+CourseContent:1. Introduction to RC Structures and Components 2. Basic Material Properties: Constituents of concrete mix; Grade of concrete; Behaviour of hardened concrete under uniaxial compression, tension, and combined stresses; Creep, shrinkage and temperature effects; Durability; Properties of reinforcing steel 3. Basic Design Concepts: Working stress method; Limit states method; Other methods 4. Flexure: Singly and doubly reinforced rectangular and flanged sections; design of beams, 1-way and 2-way rectangular slabs; Deflection control; Design for bond: Development length, splicing, curtailment, code requirements 5. Shear: Behaviour of RC flexural member under shear; Design for shear 6. Torsion: Behaviour of RC flexural member under torsion; Design for torsion 7. Compression: Effective length; Short column under axial compression with and without uniaxial/biaxial moment; Slender columns; Design for Combined Actions 8. Design of footings: Types of foundations; Design of isolated and wall footings 
+
+TextBooks:1. Pillai, SU, and Menon, D, Reinforced Concrete Design, 3rd Ed., McGraw Hill Education Private Limited, 2011 2. Krishna Raju, N., Design of Reinforced Concrete Structures, 3rd Ed., CBS Publisher, 2013 
+
+This course is important in civil department.
+
+
+CE3040= """
+
+Course name: Enviornmental engineering
+
+Description:1) To understand the engineering aspects of the water cycle from sources to community and back to sources. 2) To design systems to transport , treat and distribute water of desired quantity and Quality 3) To develop collection and treatment systems for wastewater to meet disposal and reuse requirements
+
+CourseContent:1. The cycling of Water from source to source – population forecast – water demand, wastewater production, variation of quantity of water and wastewater – Source of water: ground water and surface water. Water and Waste water Characteristics, Standards for water supplied to community and wastewater effluent discharged 2. Water Treatment : physical, chemical and biological parameters. Unit operation and processes, physical, chemical and biological – plain sedimentation, coagulation and flocculation, filtration, disinfection, softening, adsorption and reverse osmosis. 3. Waste water treatment: Grit chamber, suspended and attached growth systems for BOD removals, conventional and advanced anaerobic systems. Activated sludge, trickling filter, rotating biological contactors, pond systems, anaerobic digester, MBR, MBBR, SBR, UASB and anaerobic filters. Disposal of treated effluent, inland waters, land and ocean. 4. Introduction to air pollution, solid waste management and global environmental issues.
+
+TextBooks:1) Environmental Engineering by Peavy H.S, Rowe D.R, Tchobanoglous G – Tata McGraw Hills, New Delhi 2) Droste, R.L. Theory and Practice of Water and Wastewater Treatment, John Wiley and Sons, 1997. 3) Wastewater Engineeering: treatment and reuse, Metcalf & Eddy, T.M.H Publication, 2010
+This course is important elective in civil department 
+"""
+
+CE4010 = """
+
+Course name: Construction project management
+
+Description:The course is expected to help budding civil engineers transition from designing to actually building projects. The course is expected to bring in a practical feel of how construction projects are planned and delivered. At the end of the course the student should have an appreciation of the economics behind construction projects and the lifecycle of estimating, contracting, planning and contracting. The student will learn key tools in these areas. 
+
+CourseContent:The course is divided into three modules - Engineering Economics, Estimation and Tendering, and Construction Planning and Control. Topics covered under each module are given below:A. Engineering Economics: Time Value of Money, Discounted Cash Flows, Evaluating Alternatives, Replacement Analysis, Cost Benefit Analysis, Break-even analysis, Probabilistic Decision Analysis.B. Estimation and Tendering: Estimating Earthwork, Estimating Reinforced Concrete Structures, Formwork, Reinforcement, MEP elements, Estimating equipment costs, Labour costs, Rate analysis, Bid process management, contracts C. Construction Planning and Control: Work Breakdown Structures, Bar Charts, Precedence Diagrams, Critical Path Method, PERT, Earned Value, Resource Leveling, Time-Cost Trade-offs, Introduction to Lean Construction and Building Information Modeling, Line of Balance Scheduling
+
+TextBooks:There is no fixed text book but here are some references. Class notes will be sufficient 1. Estimating and Costing in Civil Engineering by BN Dutta 2. Construction Project Management by Neeraj Kumar Jha, or, Project Management for Engineering and Construction by Garold Oberlander 3. Principles of Engineering Economics by John White, Kenneth Case and David Pratt
+
+This course is important elective in civil department
+"""
+
+
+CE5225= """
+
+Course name: Numerical techniques in civil engineering 
+
+Description:1) Apply concepts using linear algebra, optimization methods, regression and curve fitting, numerical integration and differentiation, and ordinary differential equations to solve typical civil engineering problems across disciplines.2) Develop computer programs in higher level programming languages such as Matlab/Python/R, using numerical techniques to solve civil engineering case study problems.
+
+CourseContent:1) Basics of computer programming: Variables, arrays, matrices, structures, if-then-else conditions, for and while loops, user defined functions, basic parallel programming, graphical plotting.2) Introduction: Framework for mathematical modeling, basics of Matlab/Python/R programming, computational errors (roundoff, truncation, and total numerical), model and data uncertainty, model accuracy and precision, applications in civil engineering.3) Roots and optimization: Graphical methods, fixed point iteration, Newton-Raphson and secant methods, multi-dimensional optimization, Pareto front, applications in civil engineering.4) Linear systems: Matrix operations, eigen vectors and values, Gauss elimination, tri-diagonal systems, LU decomposition, Cholesky factorization, Gauss-Seidel method, iterative methods, applications in civil engineering.5) Curve fitting: Introduction to statistics, linear least squares regression, polynomial regression, multiple linear regression, non-linear regression, Fourier analysis, discrete Fourier transform, polynomial interpolation (Lagrange, Newton), piecewise interpolation, quadratic, cubic, and spline interpolation, applications in civil engineering.6) Numerical integration and differentiation: Trapeziodal method, Simpson’s method, higher order Newton-Cotes formula, Gauss quadrature, Taylor series approximation, Richardson extrapolation, partial derivatives, applications in civil engineering.7) Ordinary differential equations: Euler’s method, Heun’s method, Runge-Kutta method, other multi-step methods, stiff methods, shooting method and finite difference method, applications in civil engineering.
+
+This course is important elective in civil department.
+"""
+
+CE3420 = """
+
+Course name: Concrete technology
+
+Description:• To create awareness of the typical applications of concrete, different aspects of concrete technology, unconventional concretes, and properties and behaviour of concrete through an inductive teaching approach
+
+CourseContent:• Applications of concrete and case studies • Special concretes (e.g., high strength/performance, fibre reinforced, shotcrete, self compacting, ultra high performance, lightweight, pervious, heavyweight) • Constituent materials and mix design of concrete • Behaviour of concrete (e.g., fresh state, mechanical response, fracture, shrinkage, creep, durability) • Environmental concerns and life cycle assessment • Development of technological specifications by studying the constraints posed by the design, location, etc., then specifying a concrete and its mix design principles, followed by formwork, curing and final checking guidelines. 
+
+TextBooks:• Mehta, P.K. and Monteiro, P.J.M., Concrete: Microstructure, Properties, and Materials, 4th Ed., McGraw-Hill Education, 2014. • Gambhir, M.L., Concrete Technology: Theory and Practice, 4th ed., McGraw Hill, 2009. • Santhakumar, A.R., Concrete Technology, Oxford, 2007. 
+
+This course is an important elective in civil engineering.
+Grading is RG.
+
+"""
+
+Prof_IndumathiM.Nambi= """
+
+Dr. INDUMATHI M. NAMBI is a Professor in Civil Engineering Department. She obtained her M.E. in Environmental Engineering (1993) from the Center for Environmental Studies, Anna University and her Ph.D. in Civil and Environmental Engineering (1999) from Clarkson University, Potsdam, New York, USA, and became a faculty member of IIT Madras in 2005. Her research focus has been primarily in the water quality sector - specifically groundwater, industrial wastewater treatment, and restoration of water bodies. She has published over 85 peer-reviewed research articles and guided more than 12 PhDs and several Masterâ€™s students. She also serves in several expert committees at the National and State level including Jal Jeevan Mission, Unnat Bharat Abhiyan, Remediation of contaminated sites with NCEF. Prof Indumathi believes in developing engineers who are trained holistically which motivated her to take an active part in the development of the new Minor stream on "Sustainable Environmental and Infrastructure Systems". She has established and served as PI and governing board of Centre for Urbanization Buildings and Environment (CUBE) sponsored by the Govt. of Tamilnadu and Centre for Technology Development Demonstration and Dissemination sponsored by Tamil Nadu Pollution Control Board. Prof Nambi has been promoting the conversion of research ideas from Lab to Practice through Problem Directed research, projects, and entrepreneurship. She has conceptualized, raised funds, and organized the â€˜Carbon Zero Challengeâ€™ 2017-2018 and 2018-2019, a national-level contest on Energy and Environment innovation and entrepreneurship. The contest provides a platform to students/ early age startups from across the country to ideate and innovate in the cleantech domain for the greater good of society and incubates startups to become job-creators. Prof Indumathi is the Director of Samudyoga Waste Chakra, a startup focused on providing sustainable waste management solutions through cutting-edge innovative and carbon-reducing technologies for solid wastes and wastewater. She is the founder of Water Chakra, aimed at recovering water and nutrients from urine, using waterless urinals since 2018.  
+
+
+Expertise:
+Technology development for low cost, low energy treatment systems. Contaminated Site Assessments in pesticide industries, pharma industries, pulp and paper industries, petroleum industries, textile industries and tanneries.
+
+
+RESEARCH AREAS:
+ Ground water â€“ Contaminant fate and transport.
+ Remediation of contaminated soil and groundwater â€“ Chromium,Petroleum compound pesticide & micro pollutants
+ Hazardous chemicals â€“ Risk assessment and management
+ Water Treatment, Wastewater reuse, Solid waste managment
+ Industrial Waste Water Treatment â€“ Electro plating, tannery and textile.
+ Environment Impact Assessment
+ Electro Chemical methods for contaminated water & Soil
+ Biogas from food waste .
+ Microfuel cells coupled waste water treatment & Chromium recovery.
+ Petro Chemical waste & waste water treatment
+ Removal of antibiotics & antimicrobial resistance in water system
+
+PROFESSIONAL EXPERIENCES
+ 2015 – present	:	Professor, Indian Institute of technology Madras, Chennai, India.
+ july 2012 – 2015	:	Associate Professor, Indian Institute of technology Madras, Chennai, India.
+ june 2005 – june2012	:	Assistant Professor, Indian Institute of technology Madras, Chennai, India.
+ june 2003 – May 2005	:	Senior Research Associate and Consultant, M.S. Swaminathan Research Foundation, , Chennai, India.
+ January 2000 – November 2002	:	Post-doctoral Research Associate, University of Illinois at Urbana, Champaign, U.S.A
+ october 1993 – July 1994	:	Design Engineer, Larsen & Toubro Inc., ECC, Manapakkam, , Chennai,India
+"""
+
+Prof_SujathaSrinivasan = """
+
+Dr. Sujatha graduated with her B.Tech in Mechanical Engineering from IIT-Madras in 1992, her MSME from the University of Toledo, USA in 1994, and after a long stint in the prosthetics industry, her PhD from the Ohio State University in 2007. She joined the faculty at IIT-Madras in 2008.
+Dr. Sujatha’s work is in the areas of Prosthetics and Orthotics, Biomechanics and Mechanisms. She heads the TTK Center for Rehabilitation Research and Device Development (R2D2), which focuses on the development of assistive and rehabilitation devices that are biomechanically and economically suited to Indian lifestyles and conditions. R2D2 works towards commercializing the devices with industry partners or startups, having accomplished it successfully with the Arise Standing Wheelchair and NeoFly-NeoBolt: devices for seamless indoor-outdoor wheelchair mobility.
+Dr. Sujatha’s team members have won awards at prestigious competitions for their projects and have several Indian and international patents granted/pending for assistive device designs. She is also co-inventor on several US and international patents for prosthetic designs from her prior work.
+
+Skills and expertise
+Orthotics-Prosthetics-Kinematics-Rehabilitation-Biomechanics- Gait Analysis-Physical Rehabilitation- Movement Analysis- Motion Analysis- Human Movement- Human Movement Science- 3D Motion Analysis- Applied Kinesiology- Locomotion-Movement Science- Motion Capture- Rehabilitation Engineering- Rehabilitation Robotics- Human Modeling- Comparative Biomechanics- Pressure Measurement
+"""
+
+Prof_PreetiAghalayam ="""
+
+
+Research area:
+Underground Coal Gasification, Reduction of Automotive NOx, Reduction of Large Reaction Mechanisms, Reactor Modeling. Dr. Aghalayam completed her BTech in Chemical Engineering from IIT Madras in 1995, and she is an esteemed alumna of IIT Madras. She then pursued her Ph.D. from the University of Massachusetts, Amherst, in 2000. After completing her Ph.D., Dr. Aghalayam worked as a postdoctoral researcher at MIT in Cambridge and later joined as a faculty member at IIT Bombay. She subsequently joined IIT Madras as a professor in the Department of Chemical Engineering. Her exceptional contributions to the scientific community led to her recognition as one of the 75 women in STEM by the Principal Scientific Adviser’s office. Dr. Aghalayam’s journey from being a postdoctoral researcher at MIT to becoming the first woman director-in-charge for the IIT Madras Zanzibar campus is truly inspiring. Her meticulous preparation and dedication have played a crucial role in her success.
+
+As an esteemed alumna of IIT Madras and a faculty member at IIT Bombay, Dr. Aghalayam holds a central position in the IIT community. Her appointment as the first female director of any IIT institution marks a historic moment in higher education in India.
+
+In 2023, Dr. Aghalayam made history by becoming the first woman to head an Indian Institute of Technology (IIT). Her appointment as the first female director-in-charge of the new IIT in Zanzibar, Tanzania, has made the occasion momentous in the IIT community.
+
+Currently, she is an assistant professor at IIT Madras and has been chosen as the first female IIT director in the academic session of this IIT Institute in 2023–24. This announcement was made by IIT Madras recently.  
+
+This marks a momentous occasion not only for her but also for women in the fields of engineering and academia. Her dedication and hard work will lead to advancements in higher education.
+
+Relevant Courses Taught:
+Computational Techniques
+Process Calculations
+Research Skills
+Let’s Play to Learn
+"""
+
+Prof_NanditaDasgupta= """
+
+Dr.Nandita DasGupta received her B.E. degree in Electronics and Telecommunication Engineering from Jadavpur University, Kolkata, India in 1982, M.Tech and Ph.D from I.I.T. Madras in 1984 and 1988 respectively. She was awarded Alexander von Humboldt Fellowship in 1991 and spent one year in Germany doing Post-doctoral research in the area of Surface Passivation of Compound Semiconductors. She has been a Faculty member in the Department of Electrical Engineering, I.I.T. Madras since 1993 and is currently a Professor. Her research interest is in the area of Silicon and Compound Semiconductor Technology and Modelling as well as MEMS. She has nearly one hundred research publications in International Journals and Proceedings of International Conferences and has co-authored a book on Semiconductor Devices – Modelling & Technology.
+
+Nandita DasGupta received the B.E. degree in Electronics and Telecommunication Engineering from
+Jadavpur University, Kolkata, India in 1982, M. Tech. in Electrical Engineering and Ph. D. degrees from
+IIT Madras in 1984 and 1988 respectively. She was awarded Alexander von Humboldt Fellowship in 1991
+and spent one year in Technische Hochschule Darmstadt, Germany. Since 1993, she has been a Faculty
+member in the Department of Electrical Engineering, IIT Madras and is currently a Professor. Her research interest is in the area of Semiconductor Device Technology and Modeling as well as MicroElectro-Mechanical Systems (MEMS) and photonics. She has more than one hundred research
+publications in International Journals and Proceedings of International Conferences and has co-authored
+a book titled “Semiconductor Devices – Modeling & Technology”. She has also developed a 40 hour video
+course on “VLSI Technology” for the web-based NPTEL program. She is one of the Principal investigators
+of DEiTY-sponsored Centre for NEMS and Nanophotonics at IIT Madras. She was awarded the MRSI
+Medal in 2014 for her contribution to Materials Science and Engineering.
+
+Research interest:
+Her research interest is in the area of Silicon and Compound Semiconductor Technology and Modelling as well as MEMS. She has nearly one hundred research publications in International Journals and Proceedings of International Conferences and has co-authored a book on Semiconductor Devices – Modelling & Technology.
+"""
+
+Prof_SmitaSrivastava= """
+
+Prof. Smita Srivastava and her research group focuses on high-value plant derived bioactive compounds. The group develops microbial and plant cell/hairy root culture based bioprocesses for sustainable production of these plant metabolites, as alternative to natural plant extraction.
+
+Currently, Smita Srivastava holds the position of Director & General Manager at The New India Assurance Co. Ltd.
+
+In the past Ms. Srivastava was Chief Executive Officer & Managing Director at Health Insurance TPA of India Ltd.
+
+
+Her research group’s focus at IIT Madras is on modern biotechnology, rationally integrating bioprocess and cellular engineering principles to maximize the yield and productivity of high-value metabolites (like phytochemicals) from microbial and plant cell based production platforms for commercial applications.
+
+Skills and expertise:
+Biopesticides.Bioreactors. Agrobacterium. Secondary Metabolites. Biochemical Engineering. Bioprocess optimization. plant cell/hairy root cultivation. bioprocess modeling. phytopharmaceuticals. Phytochemical Analysis. Fungal Endophytes. Bioprocess Engineering
+
+ID2090= """
+
+Course: Introduction to scientific computing
+
+
 """
