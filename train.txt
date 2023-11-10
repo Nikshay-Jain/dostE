@@ -301,7 +301,7 @@ TECHNICAL SOCIETY, IIT MADRAS
 Sudha and Shankar Innovation Hub, Indian Institute of Technology, Madras.
 
 CONTACT DETAILS:
-Heads:
+Heads of Technical society:
 Prabhat - +91 91082 59723
 Anouksha - +91 94978 44857
 techsoc@smail.iitm.ac.in
@@ -310,6 +310,7 @@ techsoc@smail.iitm.ac.in
 
 
 Sports = """
+
 Sporting at IIT Madras is not merely an activity. It has, over the years, gained so much ground that it finds itself ingrained in the IITM culture. The level of enthusiasm this sporting culture generates extends beyond the campus walls; it's a source of an adrenaline rush for other colleges in the city and the country as well. The academic calendar is crowded with sporting events, including intra-hostel and inter-hostel events, as well as inter-collegiate and inter-IIT tournaments. All the hostels actively compete to win the coveted Schroeter Cup, which is the Inter-Hostel Sports Championship. In addition to all these, we've added a couple of surprises for you this year! The institute has excellent sporting facilities on the campus, which include:
 
 1. K.S. Narayanan Center for Cricketing Excellence
