@@ -1,0 +1,180 @@
+.menu-bar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightcyan);
+  width: 106.67rem;
+  height: 64.94rem;
+}
+.continue {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 7.28rem;
+  height: 2.17rem;
+  flex-shrink: 0;
+}
+.send-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-163xl) var(--padding-mini)
+    var(--padding-14xl);
+  background-color: var(--color-dodgerblue);
+  position: absolute;
+  top: 32.61rem;
+  left: 38.44rem;
+  border-radius: var(--br-sm);
+  box-shadow: 0 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 27.72rem;
+  height: 3.89rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.create-your-account,
+.email {
+  position: absolute;
+  top: 24.61rem;
+  left: 38.44rem;
+  display: inline-block;
+  width: 6.39rem;
+  height: 2.17rem;
+}
+.create-your-account {
+  top: 17.17rem;
+  left: 42.06rem;
+  width: 22.5rem;
+}
+.already-have-an {
+  top: 37.5rem;
+  left: 38.44rem;
+  font-weight: 300;
+  width: 16.28rem;
+}
+.already-have-an,
+.log-in,
+.or {
+  position: absolute;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  height: 2.17rem;
+}
+.log-in {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 37.5rem;
+  left: 54.72rem;
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-royalblue);
+  text-align: left;
+  width: 4.39rem;
+}
+.or {
+  top: 41.5rem;
+  left: 52.22rem;
+  font-weight: 300;
+  width: 2.17rem;
+}
+.dostelogo-2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 3.5rem;
+  left: 48.11rem;
+  width: 10.44rem;
+  height: 10.44rem;
+  background-image: url(./public/dostelogo1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: darken;
+}
+.signup-page-child {
+  border: 2px solid var(--color-black);
+  background-color: var(--color-lightcyan);
+  position: absolute;
+  top: 27.78rem;
+  left: 38.44rem;
+  box-sizing: border-box;
+  width: 27.72rem;
+  height: 3.83rem;
+}
+.continue-with-google,
+.signup-page-item {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+}
+.signup-page-item {
+  border: 2px solid var(--color-black);
+  background-color: var(--color-lightcyan);
+  top: 44.67rem;
+  left: 38.33rem;
+  box-sizing: border-box;
+  width: 27.72rem;
+  height: 3.83rem;
+}
+.continue-with-google {
+  border: 0;
+  background-color: transparent;
+  top: 45.56rem;
+  left: 42rem;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 19.61rem;
+  height: 2.17rem;
+}
+.image-4,
+.signup-page-child1,
+.signup-page-inner {
+  position: absolute;
+  top: 42.22rem;
+  left: 38.44rem;
+  width: 13.11rem;
+  height: 0.17rem;
+}
+.image-4,
+.signup-page-child1 {
+  left: 54.39rem;
+  width: 11.78rem;
+}
+.image-4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 45.56rem;
+  left: 39.06rem;
+  width: 2.11rem;
+  height: 2.11rem;
+  background-image: url(./public/image-5@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: darken;
+}
+.signup-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 64.94rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

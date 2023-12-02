@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./signup-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="signup-page">
+      <div class="menu-bar1"></div>
+      <button class="send-button">
+        <div class="continue">Continue</div>
+      </button>
+      <b class="email">Email</b>
+      <b class="create-your-account">Create your account</b>
+      <div class="already-have-an">Already have an account?</div>
+      <button class="log-in" id="logIn">Log in</button>
+      <div class="or">OR</div>
+      <button class="dostelogo-2" id="dostElogo2"></button>
+      <input
+        class="signup-page-child"
+        placeholder="Enter your email "
+        type="text"
+      />
+
+      <button class="signup-page-item" id="rectangleButton"></button>
+      <button class="continue-with-google" id="continueWithGoogle">
+        Continue with Google
+      </button>
+      <img class="signup-page-inner" alt="" src="./public/line-6.svg" />
+
+      <img class="signup-page-child1" alt="" src="./public/line-6.svg" />
+
+      <button class="image-4" id="image4"></button>
+    </div>
+
+    <script>
+      var logIn = document.getElementById("logIn");
+      if (logIn) {
+        logIn.addEventListener("click", function (e) {
+          window.location.href = "./login-page.html";
+        });
+      }
+      
+      var dostElogo2 = document.getElementById("dostElogo2");
+      if (dostElogo2) {
+        dostElogo2.addEventListener("click", function (e) {
+          window.location.href = "./home-page.html";
+        });
+      }
+      
+      var rectangleButton = document.getElementById("rectangleButton");
+      if (rectangleButton) {
+        rectangleButton.addEventListener("click", function (e) {
+          window.location.href = "./google-sign-in.html";
+        });
+      }
+      
+      var continueWithGoogle = document.getElementById("continueWithGoogle");
+      if (continueWithGoogle) {
+        continueWithGoogle.addEventListener("click", function (e) {
+          window.location.href = "./google-sign-in.html";
+        });
+      }
+      
+      var image4 = document.getElementById("image4");
+      if (image4) {
+        image4.addEventListener("click", function (e) {
+          window.location.href = "./google-sign-in.html";
+        });
+      }
+      </script>
+  </body>
+</html>

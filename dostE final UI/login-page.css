@@ -1,0 +1,192 @@
+.menu-bar2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightcyan);
+  width: 106.67rem;
+  height: 64.94rem;
+}
+.continue1 {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 7.28rem;
+  height: 2.17rem;
+  flex-shrink: 0;
+}
+.email1,
+.send-button1 {
+  position: absolute;
+  left: 38.44rem;
+}
+.send-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-163xl) var(--padding-mini)
+    var(--padding-14xl);
+  background-color: var(--color-dodgerblue);
+  top: 32.61rem;
+  border-radius: var(--br-sm);
+  box-shadow: 0 4px 7px 5px rgba(0, 0, 0, 0.25);
+  width: 27.72rem;
+  height: 3.89rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.email1 {
+  top: 24.61rem;
+  display: inline-block;
+  width: 6.39rem;
+  height: 2.17rem;
+}
+.dont-have-an,
+.span3 {
+  font-weight: 300;
+}
+.span3 {
+  font-family: var(--font-inter);
+}
+.span2 {
+  color: var(--color-royalblue);
+}
+.dont-have-an-container {
+  top: 37.5rem;
+  left: 38.44rem;
+  width: 14.78rem;
+}
+.dont-have-an-container,
+.or1,
+.sign-up {
+  position: absolute;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  height: 2.17rem;
+}
+.sign-up {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 37.5rem;
+  left: 53.5rem;
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: #00a3ff;
+  text-align: left;
+  width: 5.44rem;
+}
+.or1 {
+  top: 41.5rem;
+  left: 52.22rem;
+  font-weight: 300;
+  width: 2.17rem;
+}
+.dostelogo-21 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 3.5rem;
+  left: 48.11rem;
+  width: 10.44rem;
+  height: 10.44rem;
+  background-image: url(./public/dostelogo1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: darken;
+}
+.email-input {
+  border: 2px solid var(--color-black);
+  background-color: var(--color-lightcyan);
+  position: absolute;
+  top: 27.78rem;
+  left: 38.44rem;
+  box-sizing: border-box;
+  width: 27.72rem;
+  height: 3.83rem;
+}
+.continue-with-google1,
+.login-page-child {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+}
+.login-page-child {
+  border: 2px solid var(--color-black);
+  background-color: var(--color-lightcyan);
+  top: 44.67rem;
+  left: 38.33rem;
+  box-sizing: border-box;
+  width: 27.72rem;
+  height: 3.83rem;
+}
+.continue-with-google1 {
+  border: 0;
+  background-color: transparent;
+  top: 45.78rem;
+  left: 42rem;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 19.61rem;
+  height: 2.17rem;
+}
+.image-41,
+.login-page-inner,
+.login-page-item {
+  position: absolute;
+  top: 42.22rem;
+  left: 38.44rem;
+  width: 13.11rem;
+  height: 0.17rem;
+}
+.image-41,
+.login-page-inner {
+  left: 54.39rem;
+  width: 11.78rem;
+}
+.image-41 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 45.56rem;
+  left: 39.06rem;
+  width: 2.11rem;
+  height: 2.11rem;
+  background-image: url(./public/image-5@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: darken;
+}
+.welcome {
+  position: absolute;
+  top: 17.17rem;
+  left: 48.22rem;
+  display: inline-block;
+  width: 10.17rem;
+  height: 2.17rem;
+}
+.login-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 64.94rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

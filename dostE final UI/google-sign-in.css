@@ -1,0 +1,271 @@
+.menu-bar {
+  top: 0;
+  left: 0;
+  width: 106.67rem;
+  height: 64.94rem;
+}
+.google-sign-in-child,
+.google-sign-in-inner,
+.menu-bar {
+  background-color: var(--color-white);
+  position: absolute;
+}
+.google-sign-in-child {
+  top: 8.39rem;
+  left: 28.44rem;
+  border-radius: var(--br-lg);
+  box-shadow: 10px 12px 8px rgba(0, 0, 0, 0.25);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 46.67rem;
+  height: 49.56rem;
+}
+.google-sign-in-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  top: 32.89rem;
+  left: 30.94rem;
+  width: 19.94rem;
+  height: 4.44rem;
+}
+.image-5-icon {
+  position: absolute;
+  top: 10.06rem;
+  left: 30.72rem;
+  width: 2.11rem;
+  height: 2.11rem;
+  object-fit: cover;
+  mix-blend-mode: darken;
+}
+.sign-in-with {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 10.33rem;
+  left: 33.67rem;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 19.61rem;
+  height: 2.17rem;
+}
+.span {
+  color: var(--color-cornflowerblue-200);
+}
+.dosteorg1,
+.to-continue-to {
+  font-family: var(--font-inter);
+}
+.dosteorg1 {
+  font-weight: 500;
+}
+.kanishk-kala,
+.kanishk-kala-ch21b042,
+.to-continue-to-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 20.5rem;
+  left: 45.06rem;
+  font-size: var(--font-size-5xl);
+  text-align: left;
+  display: inline-block;
+  width: 19.61rem;
+  height: 2.17rem;
+}
+.kanishk-kala,
+.kanishk-kala-ch21b042 {
+  top: 27.89rem;
+  left: 35.39rem;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+}
+.kanishk-kala-ch21b042 {
+  top: 33.44rem;
+}
+.to-continue-google {
+  font-weight: 300;
+  color: var(--color-black);
+}
+.and1,
+.privacy-policy,
+.to-continue-google {
+  font-family: var(--font-inter);
+}
+.privacy-policy {
+  font-weight: 500;
+  color: var(--color-cornflowerblue-100);
+}
+.and1 {
+  font-weight: 300;
+}
+.and {
+  color: var(--color-black);
+}
+.english-united-kingdom,
+.help,
+.privacy,
+.terms,
+.to-continue-google-container,
+.use-another-account {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  left: 32.17rem;
+  text-align: left;
+  display: inline-block;
+}
+.to-continue-google-container {
+  top: 45.56rem;
+  font-size: 1.22rem;
+  width: 34.94rem;
+  height: 6.39rem;
+}
+.english-united-kingdom,
+.help,
+.privacy,
+.terms,
+.use-another-account {
+  top: 59.33rem;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  width: 14.67rem;
+  height: 1.83rem;
+}
+.help,
+.privacy,
+.terms,
+.use-another-account {
+  left: 59.28rem;
+  width: 2.22rem;
+}
+.privacy,
+.terms,
+.use-another-account {
+  left: 63.72rem;
+  width: 3.89rem;
+}
+.terms,
+.use-another-account {
+  left: 69.11rem;
+}
+.use-another-account {
+  top: 39.78rem;
+  left: 35.39rem;
+  font-size: var(--font-size-5xl);
+  width: 19.61rem;
+  height: 2.17rem;
+}
+.ch21b042smailiitmacin {
+  top: 35.06rem;
+  left: 35.39rem;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+}
+.ch21b042smailiitmacin,
+.choose-an-account,
+.kanishkkala12gmailcom {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 19.61rem;
+  height: 2.17rem;
+}
+.kanishkkala12gmailcom {
+  top: 29.5rem;
+  left: 35.39rem;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+}
+.choose-an-account {
+  top: 17.28rem;
+  left: 43.5rem;
+  font-size: 2rem;
+  font-weight: 500;
+}
+.line-icon {
+  position: absolute;
+  top: 13.5rem;
+  left: 28.44rem;
+  width: 46.78rem;
+  height: 0.11rem;
+}
+.google-sign-in-child1,
+.google-sign-in-child2,
+.google-sign-in-child3 {
+  position: absolute;
+  top: 32.05rem;
+  left: 31.77rem;
+  border-top: 0.2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 38.73rem;
+  height: 0.01rem;
+}
+.google-sign-in-child2,
+.google-sign-in-child3 {
+  top: 38.11rem;
+}
+.google-sign-in-child3 {
+  top: 42.99rem;
+}
+.download-1-icon,
+.user-photo-icon {
+  position: absolute;
+  top: 27.89rem;
+  left: 30.83rem;
+  width: 3.39rem;
+  height: 3.22rem;
+  object-fit: cover;
+}
+.user-photo-icon {
+  top: 33.44rem;
+  left: 30.94rem;
+  border-radius: var(--br-341xl);
+  width: 3.26rem;
+}
+.down-arrow-icon,
+.vector-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 2.4%;
+  width: 1.41%;
+  top: 61.25%;
+  right: 68.44%;
+  bottom: 36.36%;
+  left: 30.16%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.down-arrow-icon {
+  top: 59.11rem;
+  left: 44.22rem;
+  width: 1.33rem;
+  height: 1.5rem;
+}
+.google-sign-in {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 64.94rem;
+  overflow: hidden;
+}

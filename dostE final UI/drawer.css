@@ -1,0 +1,108 @@
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.our-chatbot-is1,
+.vast-database1 {
+  position: absolute;
+  top: 96.5rem;
+  left: 74.11rem;
+  font-size: var(--font-size-31xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 28.56rem;
+  height: 6.17rem;
+}
+.our-chatbot-is1 {
+  top: 103.67rem;
+  left: 73.17rem;
+  font-size: var(--font-size-13xl);
+  width: 30.39rem;
+  height: 16.72rem;
+}
+.dostelogo-3,
+.drawer-child,
+.new-chat {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.dostelogo-3 {
+  background-color: transparent;
+  top: 2.61rem;
+  left: 5.06rem;
+  width: 10.44rem;
+  height: 10.44rem;
+  background-image: url(./public/dostelogo1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: darken;
+}
+.drawer-child,
+.new-chat {
+  background-color: var(--color-lightcyan);
+  top: 16.28rem;
+  left: 2.94rem;
+  border-radius: var(--br-sm);
+  box-shadow: 5px 6px 4px rgba(0, 0, 0, 0.25);
+  width: 14.67rem;
+  height: 3.94rem;
+}
+.drawer-child {
+  top: 21.83rem;
+}
+.add-new-icon {
+  position: absolute;
+  top: 17.06rem;
+  left: 3.83rem;
+  width: 2.44rem;
+  height: 2.44rem;
+  object-fit: cover;
+}
+.log-out,
+.new-chat1 {
+  position: absolute;
+  top: 17.56rem;
+  left: 7.67rem;
+  display: inline-block;
+  color: var(--color-black);
+  text-align: left;
+  width: 6.39rem;
+  height: 1.39rem;
+}
+.log-out {
+  top: 23.11rem;
+  left: 8.22rem;
+}
+.logout-icon {
+  position: absolute;
+  top: 22.67rem;
+  left: 3.94rem;
+  width: 2.33rem;
+  height: 2.33rem;
+  object-fit: cover;
+}
+.drawer {
+  position: relative;
+  background-color: var(--color-white);
+  width: 20.5rem;
+  height: 100%;
+  overflow: hidden;
+  opacity: 0;
+  max-width: 90%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.drawer.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-left;
+}

@@ -1,0 +1,366 @@
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.our-chatbot-is2,
+.vast-database2 {
+  position: absolute;
+  top: 96.5rem;
+  left: 74.11rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 28.56rem;
+  height: 6.17rem;
+}
+.our-chatbot-is2 {
+  top: 103.67rem;
+  left: 73.17rem;
+  font-size: var(--font-size-13xl);
+  width: 30.39rem;
+  height: 16.72rem;
+}
+.dostelogo-4-icon {
+  position: absolute;
+  top: 4.44rem;
+  left: 37.44rem;
+  width: 31.78rem;
+  height: 31.78rem;
+  object-fit: cover;
+  mix-blend-mode: darken;
+}
+.try-it-out {
+  position: absolute;
+  top: 37.28rem;
+  left: 46.89rem;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 12.89rem;
+  height: 3.89rem;
+  opacity: 0.4;
+}
+.message-input {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-lightcyan);
+  position: absolute;
+  top: 57.17rem;
+  left: 11.89rem;
+  border-radius: var(--br-sm);
+  box-shadow: 8px 11px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 82.83rem;
+  height: 4.72rem;
+}
+.sent {
+  top: 58.06rem;
+  left: 89.06rem;
+  width: 3.78rem;
+  height: 3rem;
+  background-image: url(./public/sent@2x.png);
+}
+.menu,
+.sent,
+.user-photo {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.user-photo {
+  top: 0;
+  left: 100.5rem;
+  border-radius: var(--br-341xl);
+  width: 5.33rem;
+  height: 5.28rem;
+  background-image: url(./public/userphoto@2x.png);
+}
+.menu {
+  top: 0.61rem;
+  left: 1rem;
+  width: 5rem;
+  height: 5rem;
+  background-image: url(./public/menu@2x.png);
+}
+.main-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 64.94rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.our-chatbot-is,
+.vast-database {
+  position: absolute;
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+}
+.vast-database {
+  top: 96.5rem;
+  left: 74.11rem;
+  font-size: var(--font-size-31xl);
+  width: 28.56rem;
+  height: 6.17rem;
+}
+.our-chatbot-is {
+  top: 103.67rem;
+  left: 73.17rem;
+  width: 30.39rem;
+  height: 16.72rem;
+}
+.clear-chat-history-rectangle,
+.data-control-rectangle,
+.view-chat-history-rectangle {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-lightcyan);
+  position: absolute;
+  top: 30.17rem;
+  left: 8.39rem;
+  border-radius: var(--br-sm);
+  box-shadow: 5px 6px 4px rgba(0, 0, 0, 0.25);
+  width: 17.5rem;
+  height: 3.94rem;
+}
+.clear-chat-history-rectangle,
+.data-control-rectangle {
+  top: 41.5rem;
+}
+.clear-chat-history-rectangle {
+  top: 35.83rem;
+}
+.email2 {
+  position: absolute;
+  top: 25.33rem;
+  left: 10.72rem;
+  display: inline-block;
+  width: 25rem;
+  height: 2.11rem;
+}
+.clean-chat-history,
+.data-controls,
+.view-chat-history {
+  position: absolute;
+  left: 12.72rem;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 12rem;
+  height: 1.39rem;
+}
+.view-chat-history {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 31.39rem;
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.clean-chat-history,
+.data-controls {
+  top: 37.11rem;
+}
+.data-controls {
+  top: 42.67rem;
+}
+.win-20220614-23-59-13-pro-2-icon {
+  position: absolute;
+  top: 8.22rem;
+  left: 13.83rem;
+  border-radius: var(--br-341xl);
+  width: 16.44rem;
+  height: 16.28rem;
+  object-fit: cover;
+}
+.user-profile {
+  position: absolute;
+  top: 0.61rem;
+  left: 14.06rem;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  width: 16.22rem;
+  height: 2.17rem;
+}
+.vector-icon1,
+.vector-icon2 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 58.21%;
+  width: 91.79%;
+  top: 20.77%;
+  right: 4.1%;
+  bottom: 21.03%;
+  left: 4.1%;
+  overflow: hidden;
+}
+.vector-icon2 {
+  height: 25.13%;
+  width: 25.13%;
+  top: 37.44%;
+  right: 37.44%;
+  bottom: 37.44%;
+  left: 37.44%;
+}
+.data-icon,
+.vector-icon2,
+.view {
+  position: absolute;
+  overflow: hidden;
+}
+.view {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 31.06rem;
+  left: 9.11rem;
+  width: 2.17rem;
+  height: 2.17rem;
+}
+.data-icon {
+  top: 42.5rem;
+  left: 8.83rem;
+  width: 2.72rem;
+  height: 2.22rem;
+}
+.delete-icon {
+  position: absolute;
+  top: 37.11rem;
+  left: 9.22rem;
+  width: 1.89rem;
+  height: 1.67rem;
+  object-fit: cover;
+}
+.user-drawer {
+  position: relative;
+  background-color: var(--color-white);
+  width: 44.33rem;
+  height: 100%;
+  overflow: hidden;
+  opacity: 0;
+  max-width: 90%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.drawer.animate,
+.user-drawer.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-left;
+}
+.our-chatbot-is1,
+.vast-database1 {
+  position: absolute;
+  top: 96.5rem;
+  left: 74.11rem;
+  font-size: var(--font-size-31xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 28.56rem;
+  height: 6.17rem;
+}
+.our-chatbot-is1 {
+  top: 103.67rem;
+  left: 73.17rem;
+  font-size: var(--font-size-13xl);
+  width: 30.39rem;
+  height: 16.72rem;
+}
+.dostelogo-3,
+.drawer-child,
+.new-chat {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.dostelogo-3 {
+  background-color: transparent;
+  top: 2.61rem;
+  left: 5.06rem;
+  width: 10.44rem;
+  height: 10.44rem;
+  background-image: url(./public/dostelogo1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: darken;
+}
+.drawer-child,
+.new-chat {
+  background-color: var(--color-lightcyan);
+  top: 16.28rem;
+  left: 2.94rem;
+  border-radius: var(--br-sm);
+  box-shadow: 5px 6px 4px rgba(0, 0, 0, 0.25);
+  width: 14.67rem;
+  height: 3.94rem;
+}
+.drawer-child {
+  top: 21.83rem;
+}
+.add-new-icon {
+  position: absolute;
+  top: 17.06rem;
+  left: 3.83rem;
+  width: 2.44rem;
+  height: 2.44rem;
+  object-fit: cover;
+}
+.log-out,
+.new-chat1 {
+  position: absolute;
+  top: 17.56rem;
+  left: 7.67rem;
+  display: inline-block;
+  color: var(--color-black);
+  text-align: left;
+  width: 6.39rem;
+  height: 1.39rem;
+}
+.log-out {
+  top: 23.11rem;
+  left: 8.22rem;
+}
+.logout-icon {
+  position: absolute;
+  top: 22.67rem;
+  left: 3.94rem;
+  width: 2.33rem;
+  height: 2.33rem;
+  object-fit: cover;
+}
+.drawer {
+  position: relative;
+  background-color: var(--color-white);
+  width: 20.5rem;
+  height: 100%;
+  overflow: hidden;
+  opacity: 0;
+  max-width: 90%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
